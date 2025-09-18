@@ -1,29 +1,54 @@
-# ✋🏻 I'm George - David Tsitlaouri
+# ✋🏻 I'm George - David Tsitlaouri  
 
-- 4th-year undergraduate student in Informatics & Telecommunications at the University of Thessaly (DIT / UTH), Greece.  
-- Specialization: Data Management and Artificial Intelligence
-- Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.
-
----
-## 🌩️ Thesis
-- Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
----
-
-## 💻 Programming Languages and Tools
-- **Languages:**  C, C++, Java, Python, SQL, CUDA, Pascal, MATLAB, HTML, CSS, JavaScript, Linux, MIPS Assembly
-- **Tools:** Vivado, Docker, Kubernetes, VsCode, Spyder, Wireshark, Git, VirtualBox, Microsoft Teams, WordPress, Figma
----
-
-## 🌍 Languages Spoken
-- Greek (Native)
-- Russian (Native)
-- English (B2)
+🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece  
+📌 Specialization: Data Management and Artificial Intelligence  
+🔬 Member of the Research Laboratory of Computer Architecture, Compilers, and Systems Security  
 
 ---
 
-## 📫 Contact
-- 📧 (giwrgos.tst@gmail.com)
+## 🌩️ Thesis  
+**Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA**  
+- Developed a custom cryptographic processor supporting encrypted instructions  
+- Focused on secure execution and hardware-level cryptographic protection  
+- Utilized **C++**, **MIPS Assembly**, and **Xilinx Vivado** for development and testing  
 
 ---
 
-> *Feel free to check out my repositories!*
+## 🚀 Featured Projects  
+- 🧠 **Advanced Machine Learning Projects** – Deep learning and data analysis  
+- 🔒 **Parallel AES CUDA** – GPU-based parallel encryption  
+- ☁️ **Weather App Autoscaler** – Kubernetes app with auto-scaling based on load and weather data  
+- 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark  
+- 🎥 **Video Coding for Machines** – Research about Optimized video coding  
+- 🎮 **Reinforcement Learning Experiments** – RL algorithms  
+- 🌐 **GPBFT Consensus Protocol** – Distributed consensus implementation  
+- 🛠️ **Build a Compiler** – Custom compiler from scratch  
+- 📚 **Egram Student Management System** – Platform for educational institutions  
+- 🌍 **Skyrianos** – Informational website about the island of Skyros  
+- 🐦 **OstrichZooPark** – Website for Ostrich Zoo Park  
+
+💡 *Check out all my repositories for more!*  
+
+---
+
+## 💻 Programming Languages & Tools  
+- **Languages:** C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML, CSS, JavaScript  
+- **Tools:** Vivado, Docker, Kubernetes, Apache Spark, Git, VS Code, Wireshark, VirtualBox  
+- **OS:** Linux, Windows  
+
+---
+
+## 🌍 Languages Spoken  
+- Greek (Native)  
+- Russian (Native)  
+- English (B2 – ECCE, University of Michigan)  
+
+---
+
+## 📫 Contact  
+- 📧 giwrgos.tst@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gdtsitlauri/)  
+
+---
+
+> *Passionate about AI, Big Data, Cloud, and Secure Systems — always exploring new challenges and building impactful solutions.*  
