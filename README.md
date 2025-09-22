@@ -48,7 +48,7 @@
 ---
 
 ## 📫 Contact  
-- 📧 giwrgos.tst@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gdtsitlauri/)  
+- 📧 gtsitlaouri@uth.gr  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gtsitlaouri/)  
 
 ---
