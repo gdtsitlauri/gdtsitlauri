@@ -1,4 +1,4 @@
-# ✋🏻 I'm George - David Tsitlaouri  
+# ✋🏻 I'm George David Tsitlaouri  
 
 🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece  
 📌 Specialization: Data Management and Artificial Intelligence  
