@@ -1,6 +1,6 @@
 # ✋🏻 I'm George David Tsitlauri
 
-🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece  
+🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece (October 2021 – January 2026)
 📌 Specialization: Data Management and Artificial Intelligence  
 🔬 Member of the Research Laboratory of Computer Architecture, Compilers, and System Security  
 
