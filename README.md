@@ -1,4 +1,4 @@
-# ✋🏻 I'm George David Tsitlauri  
+# ✋🏻 I'm George David Tsitlauri
 
 🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece  
 📌 Specialization: Data Management and Artificial Intelligence  
@@ -20,7 +20,7 @@
 - 🔒 **Parallel AES CUDA** – GPU-based parallel encryption  
 - ☁️ **Weather App Autoscaler** – Kubernetes app with auto-scaling based on load and weather data  
 - 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark and Hadoop
-- 🎥 **Video Coding for Machines** – Research about Optimized video coding techniques
+- 🎥 **Video Coding for Machines** – Research about optimized video coding techniques
 - 📊 **Tourism Data Mining** – Data mining for tourism analytics   
 - 🎮 **Reinforcement Learning Experiments** – RL algorithms  
 - 🌐 **GPBFT Consensus Protocol** – Distributed consensus implementation  
@@ -28,14 +28,15 @@
 - 📚 **Egram Student Management System** – Platform for institutions  
 - 🌍 **Skyrianos** – Website about the island of Skyros  
 - 🐦 **OstrichZooPark** – Website for Ostrich Zoo Park  
+- 🏠 **Pavlidi Home E-shop (In progress)** – E-commerce platform built with Next.js and Medusa.js
 
 💡 *Check out all my repositories for more!*  
 
 ---
 
-## 💻 Programming Languages & Tools  
-- **Languages:** C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML, CSS, JavaScript  
-- **Tools:** Xilinx Vivado, Docker, Kubernetes, Git, VS Code, Wireshark, VirtualBox  
+## 💻 Programming Languages & Frameworks & Tools  
+- **Languages:** C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML5, CSS3, JavaScript, Typescript
+- **Frameworks & Tools:** Xilinx Vivado, Docker, Kubernetes, Git, VS Code, Wireshark, VirtualBox, Figma, React, Next.js, Tailwind CSS
 - **OS:** Windows, Linux 
 
 ---
