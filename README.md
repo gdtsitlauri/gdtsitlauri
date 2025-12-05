@@ -36,7 +36,7 @@
 
 ## 💻 Programming Languages & Frameworks & Tools  
 - **Languages:** C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML5, CSS3, JavaScript, Typescript
-- **Frameworks & Tools:** Xilinx Vivado, Docker, Kubernetes, Git, VS Code, Wireshark, VirtualBox, Figma, React, Next.js, Tailwind CSS
+- **Frameworks & Tools:** Xilinx Vivado, Docker, Kubernetes, Git, VS Code, Wireshark, VirtualBox, Figma, React, Next.js, Tailwind CSS, Medusa.js
 - **OS:** Windows, Linux 
 
 ---
