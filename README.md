@@ -28,7 +28,7 @@
 - 📚 **Egram Student Management System** – Platform for institutions  
 - 🌍 **Skyrianos** – Website about the island of Skyros  
 - 🐦 **OstrichZooPark** – Website for Ostrich Zoo Park  
-- 🏠 **Pavlidi Home E-shop (In progress)** – E-commerce platform built with Next.js and Medusa.js
+- 🏠 **Pavlidi Home E-shop** – E-commerce platform built with Next.js and Medusa.js
 
 💡 *Check out all my repositories for more!*  
 
