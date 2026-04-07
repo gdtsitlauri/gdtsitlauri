@@ -8,35 +8,32 @@
 
 <p align="center">
   <a href="https://aia.dit.uth.gr/">
-    <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-0A66C2?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
+    <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
   </a>
-  <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-1F6FEB?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
-  <img src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-6F42C1?style=for-the-badge" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-2DA44E?style=for-the-badge" alt="Research Lab" />
+  <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=flat-square" alt="Secure Systems" />
-  <img src="https://img.shields.io/badge/Computer%20Architecture-111111?style=flat-square" alt="Computer Architecture" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-111111?style=flat-square" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-111111?style=flat-square" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-111111?style=flat-square" alt="Cyber-Physical Systems" />
-  <img src="https://img.shields.io/badge/Big%20Data-111111?style=flat-square" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Secure%20Systems-0891B2?style=flat-square" alt="Secure Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-2563EB?style=flat-square" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-059669?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0EA5E9?style=flat-square" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-F59E0B?style=flat-square" alt="Cyber-Physical Systems" />
+  <img src="https://img.shields.io/badge/Big%20Data-4F46E5?style=flat-square" alt="Big Data" />
 </p>
 
 ---
 
-## Profile
+I am a graduate in Informatics and Telecommunications from the University of Thessaly, with specialization in Data Management and Artificial Intelligence, and a member of the Research Laboratory of Computer Architecture, Compilers, and System Security. I am currently pursuing the MSc in Artificial Intelligence and Applications at the University of Thessaly.
 
-I am a graduate in Informatics and Telecommunications from the University of Thessaly, with specialization in Data Management and Artificial Intelligence, and a member of the Research Laboratory of Computer Architecture, Compilers, and System Security.
-
-I am currently pursuing the MSc in Artificial Intelligence and Applications at the University of Thessaly. My work spans artificial intelligence, cybersecurity, secure systems, computer architecture, cyber-physical systems, distributed systems, cloud infrastructure, compilers, and data-intensive computing.
-
-This profile brings together academic work, research-oriented repositories, engineering projects, and long-term research preparation aligned with future doctoral studies.
-
----
+This profile brings together academic work, research-oriented repositories, engineering projects, and long-term research preparation aligned with future PhD-level studies.
 
 ## Academic Overview
 
@@ -60,14 +57,12 @@ This profile brings together academic work, research-oriented repositories, engi
 - **Research Laboratory of Computer Architecture, Compilers, and System Security**
 
 ### Academic Direction
-- Research-oriented development with a long-term trajectory toward **PhD-level work**
-- Focus on building a coherent portfolio across **AI, secure systems, CPS security, distributed infrastructure, and advanced computing architectures**
+- Long-term research trajectory toward **PhD-level work**
+- Focus on **AI, secure systems, cyber-physical systems, distributed infrastructure, and advanced computing architectures**
 
     </td>
   </tr>
 </table>
-
----
 
 ## Research Interests
 
@@ -94,8 +89,6 @@ This profile brings together academic work, research-oriented repositories, engi
   </tr>
 </table>
 
----
-
 ## Thesis Work
 
 <table>
@@ -114,20 +107,18 @@ This profile brings together academic work, research-oriented repositories, engi
     <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
   </tr>
   <tr>
-    <td valign="top"><strong>MSc Thesis</strong></td>
+    <td valign="top"><strong>MSc Thesis Research</strong></td>
     <td valign="top"><strong>Generalization in AI-Driven Intrusion Detection for Cyber-Physical Systems</strong></td>
     <td valign="top">
-      Developed within my current graduate research direction, this work focuses on intelligent intrusion detection for cyber-physical systems with emphasis on generalization across heterogeneous environments. It brings together artificial intelligence, cybersecurity, and CPS-oriented analysis as part of a broader long-term research trajectory.
+      Developed within my current graduate research direction, this work focuses on intelligent intrusion detection for cyber-physical systems, with emphasis on robust generalization across heterogeneous environments. It combines artificial intelligence, cybersecurity, and CPS-oriented analysis, and forms a central part of my evolving postgraduate research trajectory.
     </td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
   </tr>
 </table>
 
----
-
 ## Research Portfolio
 
-The following repositories represent research-oriented work, advanced technical exploration, and long-term academic development.
+The following repositories represent research-oriented work, advanced technical exploration, and long-term academic development. Several of these high-level research directions are being developed with a forward-looking perspective toward future PhD-level research, particularly in artificial intelligence, secure systems, cyber-physical systems, intelligent infrastructure, and advanced computing architectures.
 
 <table>
   <tr>
@@ -136,39 +127,37 @@ The following repositories represent research-oriented work, advanced technical 
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
-    <td>Secure and advanced processor architecture research</td>
+    <td>Research-oriented work in secure and advanced processor architecture</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/caesar-framework">caesar-framework</a></td>
-    <td>Research-oriented systems framework and technical experimentation</td>
+    <td>Framework-oriented research and advanced systems experimentation</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
-    <td>Advanced systems and architecture-oriented research development</td>
+    <td>Advanced research development in systems and intelligent infrastructure</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
-    <td>AI-driven intrusion detection for cyber-physical systems</td>
+    <td>AI-driven intrusion detection research for cyber-physical systems</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
-    <td>Advanced computing and systems-oriented research work</td>
+    <td>Research-oriented technical development in advanced computing systems</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">chronos-edge-iot</a></td>
-    <td>Edge and IoT-oriented intelligent systems research</td>
+    <td>Research in edge computing and intelligent IoT-oriented systems</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">polaris-sdn-orchestrator</a></td>
-    <td>Programmable networking and SDN orchestration research</td>
+    <td>Research-oriented orchestration work in SDN and programmable networking</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">evoo-adulteration-ai</a></td>
     <td>Applied artificial intelligence for intelligent analysis and classification</td>
   </tr>
 </table>
-
----
 
 ## Selected Public Projects
 
@@ -224,13 +213,9 @@ The following repositories represent research-oriented work, advanced technical 
   </tr>
 </table>
 
----
-
 ## Additional Development Work
 
 In addition to the public repositories listed above, my development experience also includes private full-stack and e-commerce projects built with modern web technologies, including Medusa.js-based systems.
-
----
 
 ## Technical Skills
 
@@ -257,8 +242,6 @@ In addition to the public repositories listed above, my development experience a
   </tr>
 </table>
 
----
-
 ## Languages
 
 <table>
@@ -279,8 +262,6 @@ In addition to the public repositories listed above, my development experience a
     <td>B2 (ECCE, University of Michigan)</td>
   </tr>
 </table>
-
----
 
 ## Profile Statement
 
