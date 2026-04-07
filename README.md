@@ -28,7 +28,7 @@
   <img height="20" src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
   <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
   <img height="20" src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
-  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-f59e42?style=for-the-badge" alt="Cyber-Physical Systems" />
   <img height="20" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
 </div>
 
