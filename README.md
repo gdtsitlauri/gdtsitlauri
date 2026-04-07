@@ -1,10 +1,6 @@
 <h1 align="center">George David Tsitlauri</h1>
 
-<p align="center">
-  Graduate in Informatics and Telecommunications, University of Thessaly
-  <br />
-  Currently pursuing the MSc in Artificial Intelligence and Applications, University of Thessaly
-</p>
+
 
 <div align="center" style="white-space: nowrap;">
   <img height="30" src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
@@ -46,7 +42,7 @@
     <td valign="top"><strong>BSc Thesis</strong></td>
     <td valign="top"><strong>Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA</strong></td>
     <td valign="top">
-      Implementation and evaluation of a MIPS-like processor with an integrated AES-128 decryption stage in the pipeline, designed to execute only encrypted programs so that plaintext instructions do not appear in memory or FPGA buses.
+      Implementation and evaluation of a MIPS-like processor with an integrated AES-128 decryption stage in the pipeline, designed to execute only encrypted programs.
     </td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
   </tr>
@@ -56,7 +52,7 @@
     <td valign="top">
       Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.
     </td>
-    <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
+    <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">CPS-IDS-Generalization</a></td>
   </tr>
 </table>
 
@@ -74,27 +70,27 @@ Several of the following high-level research repositories are being developed wi
     <td>CryptoCPU with Secure 3D-Stacked Memory</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/caesar-framework">caesar-framework</a></td>
+    <td><a href="https://github.com/gdtsitlauri/caesar-framework">Caesar-Framework</a></td>
     <td>AI-driven co-evolutionary cyber-attack simulation and adaptive defense framework for attack, response, explainability, diffusion-based adversarial generation, and self-healing security research.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
+    <td><a href="https://github.com/gdtsitlauri/atlas-trident">Atlas-Trident</a></td>
     <td>Prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
+    <td><a href="https://github.com/gdtsitlauri/patv-x">Patv-X</a></td>
     <td>Training-free and explainable deepfake detection through multi-scale frequency forensics for face-centric temporal video analysis.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">chronos-edge-iot</a></td>
+    <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">Chronos-Edge-IOT</a></td>
     <td>Edge-IoT offloading research framework combining causal-hypergraph modeling, spiking RL, simulator-based evaluation, baselines, ablations, and reproducibility tooling.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">polaris-sdn-orchestrator</a></td>
+    <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">Polaris-SDN-Orchestrator</a></td>
     <td>Orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">evoo-adulteration-ai</a></td>
+    <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">EVOO-Adulteration-AI</a></td>
     <td>Reproducible machine-learning pipelines for extra-virgin olive oil authenticity and adulteration detection using FTIR and Raman spectroscopy.</td>
   </tr>
 </table>
@@ -109,42 +105,42 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">ccc-ir-optimizer</a><br />
+      <a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">CCC IR Optimizer</a><br />
       Optimizer for CCC intermediate-representation code, implementing analyses and classic compiler optimizations such as constant propagation, dead-code elimination, LICM, strength reduction, CSE, and control-flow simplification.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/parallel-aes-cuda">parallel-aes-cuda</a><br />
+      <a href="https://github.com/gdtsitlauri/parallel-aes-cuda">Parallel AES CUDA</a><br />
       CUDA implementation of AES encryption and decryption for high-performance GPU execution.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">gpbft-consensus-protocol</a><br />
+      <a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">GPBFT Consensus Protocol</a><br />
       Implementation of GPBFT, a group-based PBFT enhancement with group structuring and group signatures, tested in the SymBChainSim environment.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/build-a-compiler">build-a-compiler</a><br />
+      <a href="https://github.com/gdtsitlauri/build-a-compiler">Build a Compiler</a><br />
       Mini C-like compiler built with Flex and Bison, including lexer, parser, symbol table, AST construction, and MIPS code generation.
     </td>
     <td valign="top">
-      <a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">advanced-machine-learning-projects</a><br />
+      <a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">Advanced AI Projects</a><br />
       Collection of applied ML and deep-learning projects including CNNs, GANs, autoencoders, YOLOv8, transformers, RNNs, and PSO-based optimization.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/big-data-spark-taxi">big-data-spark-taxi</a><br />
+      <a href="https://github.com/gdtsitlauri/big-data-spark-taxi">Big Data Spark Taxi</a><br />
       Analysis of NYC TLC taxi-trip data with Apache Spark and HDFS using RDDs, DataFrames, SQL, CSV vs Parquet comparisons, and Catalyst join-optimizer study.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">reinforcement-learning-experiments</a><br />
+      <a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">Reinforcement Learning Experiments</a><br />
       Python implementations of classic reinforcement-learning problems such as multi-armed bandits, blackjack, and grid world.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/tourism-data-mining">tourism-data-mining</a><br />
+      <a href="https://github.com/gdtsitlauri/tourism-data-mining">Tourism Data Mining</a><br />
       Tourism analytics project applying clustering, classification, and association-rule mining to real-world datasets.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/video-coding-for-machines">video-coding-for-machines</a><br />
+      <a href="https://github.com/gdtsitlauri/video-coding-for-machines">Video Coding for Machines</a><br />
       Research-oriented work on video compression tailored to machine vision and downstream inference rather than human perceptual quality.
     </td>
     <td valign="top">
-      <a href="https://github.com/gdtsitlauri/egram-student-management-system">egram-student-management-system</a><br />
+      <a href="https://github.com/gdtsitlauri/egram-student-management-system">Egram Student Management System</a><br />
       Desktop academic management system for student data built with PyQt and SQL.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a><br />
       Responsive single-page web guide to the island of Skyros with curated content, animations, and interactive pop-ups.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/ostrichzoopark">ostrichzoopark</a><br />
+      <a href="https://github.com/gdtsitlauri/ostrichzoopark">OstrichZooPark</a><br />
       Multilingual responsive website for Ostrich Zoo Park and Tavern THEA, with interactive galleries, SEO-oriented structure, and visitor information.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">sony-audio-visualizer</a><br />
