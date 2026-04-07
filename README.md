@@ -14,8 +14,8 @@
 <br />
 
 <div align="center" style="white-space: nowrap;">
-  <img height="24" src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
-  <img height="24" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
+  <img height="22" src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
+  <img height="22" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
 </div>
 
 <br />
