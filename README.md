@@ -2,7 +2,7 @@
 
 Graduate in Informatics and Telecommunications from the University of Thessaly, Greece, with specialization in Data Management and Artificial Intelligence. Member of the Research Laboratory of Computer Architecture, Compilers, and System Security.
 
-My work focuses on computer systems, artificial intelligence, cybersecurity, secure architectures, distributed systems, cloud infrastructure, and data-intensive computing. This GitHub profile presents a combination of academic work, research-oriented repositories, engineering projects, and long-term research preparation for future graduate studies.
+My work spans artificial intelligence, secure systems, computer architecture, cybersecurity, distributed systems, cloud infrastructure, cyber-physical systems, and data-intensive computing. This profile brings together academic work, research-oriented repositories, engineering projects, and long-term research preparation for future postgraduate and doctoral studies.
 
 ## Academic Background
 
@@ -23,20 +23,30 @@ Specialization: Data Management and Artificial Intelligence
 - Big data systems and data engineering
 - Compilers and low-level systems programming
 
-## Academic Trajectory
+## Academic and Research Direction
 
-I am building a long-term academic and research trajectory that connects my undergraduate work, future postgraduate studies, and doctoral-level research preparation.
+My academic path is being shaped around a long-term research trajectory that connects undergraduate work, future postgraduate studies, and doctoral-level research development.
 
-My planned graduate direction includes the **MSc in Artificial Intelligence and Applications** at the University of Thessaly. Within this broader path, **cps-ids-generalization** is being developed as the basis for planned MSc thesis work, while several other research repositories are being prepared as foundations for future PhD-level research.
+A central part of this direction is the preparation of advanced research repositories with long-term academic value. In particular, **cps-ids-generalization** is intended as the foundation for future MSc thesis work, while several other repositories in this profile are being developed as potential directions for future PhD-level research.
 
-## Undergraduate Thesis
+## Thesis Work
+
+### BSc Thesis
 
 **Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA**
+
+Repository: [CryptoCPU](https://github.com/gdtsitlauri/CryptoCPU)
 
 - Designed and implemented a custom cryptographic processor with support for encrypted instructions
 - Focused on secure execution and hardware-level cryptographic protection
 - Worked with C++, MIPS Assembly, and Xilinx Vivado for development, simulation, and testing
 - Explored instruction-level security, processor architecture, and FPGA-based implementation
+
+### Planned Graduate Thesis Direction
+
+Repository: [cps-ids-generalization](https://github.com/gdtsitlauri/cps-ids-generalization)
+
+This work is being prepared as the basis for future MSc thesis development in the broader area of artificial intelligence, cyber-physical systems, and intelligent intrusion detection.
 
 ## Research Portfolio
 
@@ -51,32 +61,38 @@ The following repositories represent research-oriented work, advanced technical 
 - [polaris-sdn-orchestrator](https://github.com/gdtsitlauri/polaris-sdn-orchestrator)
 - [evoo-adulteration-ai](https://github.com/gdtsitlauri/evoo-adulteration-ai)
 
-## Selected Projects
+## Selected Public Projects
 
 ### Systems, Security, and Infrastructure
-- CCC-IR-Optimizer — IR code optimizer for the CCC C front-end translator
-- Parallel AES CUDA — GPU-based parallel encryption
-- Weather App Autoscaler — Kubernetes application with auto-scaling based on load and weather data
-- GPBFT Consensus Protocol — Distributed consensus implementation
-- Build a Compiler — Custom compiler implementation from scratch
+
+- [ccc-ir-optimizer](https://github.com/gdtsitlauri/ccc-ir-optimizer) — IR code optimizer for the CCC C front-end translator
+- [parallel-aes-cuda](https://github.com/gdtsitlauri/parallel-aes-cuda) — GPU-based parallel encryption
+- [gpbft-consensus-protocol](https://github.com/gdtsitlauri/gpbft-consensus-protocol) — Distributed consensus implementation
+- [build-a-compiler](https://github.com/gdtsitlauri/build-a-compiler) — Custom compiler implementation from scratch
 
 ### Artificial Intelligence, Data, and Intelligent Systems
-- Advanced Machine Learning Projects
-- Big Data Spark Taxi — Large-scale taxi trip analysis using Apache Spark and Hadoop
-- Tourism Data Mining — Data mining methods for tourism analytics
-- Reinforcement Learning Experiments — Reinforcement learning algorithms and experimentation
-- Video Coding for Machines — Technical work on optimized video coding techniques
+
+- [advanced-machine-learning-projects](https://github.com/gdtsitlauri/advanced-machine-learning-projects) — Machine learning and deep learning projects
+- [big-data-spark-taxi](https://github.com/gdtsitlauri/big-data-spark-taxi) — Large-scale taxi trip analysis using Apache Spark and Hadoop
+- [reinforcement-learning-experiments](https://github.com/gdtsitlauri/reinforcement-learning-experiments) — Reinforcement learning algorithms and experimentation
+- [tourism-data-mining](https://github.com/gdtsitlauri/tourism-data-mining) — Data mining methods for tourism analytics
+- [video-coding-for-machines](https://github.com/gdtsitlauri/video-coding-for-machines) — Technical work on optimized video coding techniques
 
 ### Software and Web Development
-- Egram Student Management System — Platform for educational institutions
-- Skyrianos — Website about the island of Skyros
-- OstrichZooPark — Website for Ostrich Zoo Park
-- Pavlidi Home E-shop — E-commerce platform built with Next.js and Medusa.js
-- [sony-audio-visualizer](https://github.com/gdtsitlauri/sony-audio-visualizer)
+
+- [egram-student-management-system](https://github.com/gdtsitlauri/egram-student-management-system) — Platform for educational institutions
+- [Skyrianos](https://github.com/gdtsitlauri/Skyrianos) — Website project about the island of Skyros
+- [ostrichzoopark](https://github.com/gdtsitlauri/ostrichzoopark) — Website project for Ostrich Zoo Park
+- [sony-audio-visualizer](https://github.com/gdtsitlauri/sony-audio-visualizer) — Audio visualization project
+
+## Additional Development Work
+
+In addition to the public repositories listed above, my work also includes private development projects, including e-commerce-oriented full-stack systems built with Medusa.js.
 
 ## Technical Skills
 
 ### Programming Languages
+
 - C
 - C++
 - Java
@@ -89,23 +105,31 @@ The following repositories represent research-oriented work, advanced technical 
 - HTML5
 - CSS3
 
-### Frameworks, Platforms, and Tools
-- Xilinx Vivado
-- Docker
-- Kubernetes
-- Apache Spark
-- Hadoop
+### Frameworks and Platforms
+
 - React
 - Next.js
 - Tailwind CSS
 - Medusa.js
+- Docker
+- Kubernetes
+- Apache Spark
+- Hadoop
+
+### Development and Research Tools
+
+- Xilinx Vivado
 - Git
+- CMake
+- Jupyter Notebook
+- Visual Studio
 - VS Code
 - Wireshark
 - VirtualBox
 - Figma
 
 ### Operating Systems
+
 - Linux
 - Windows
 
@@ -117,4 +141,4 @@ The following repositories represent research-oriented work, advanced technical 
 
 ## Profile Statement
 
-This profile documents my academic background, research preparation, and technical work across artificial intelligence, secure systems, computer architecture, cyber-physical systems, distributed computing, cloud infrastructure, and software engineering. It reflects both completed work and the broader research direction I am developing toward future MSc and PhD studies.
+This GitHub profile documents my academic background, research preparation, and technical work across artificial intelligence, secure systems, computer architecture, cyber-physical systems, distributed computing, cloud infrastructure, and software engineering. It reflects both completed work and the broader research direction I am developing toward future MSc and PhD studies.
