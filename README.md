@@ -17,17 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=flat" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=flat" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=flat" alt="Secure Systems" />
-  <img src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=flat" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=flat" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=flat" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=flat" alt="Cyber-Physical Systems" />
-  <img src="https://img.shields.io/badge/Big%20Data-86198F?style=flat" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
 </p>
 
 ---
