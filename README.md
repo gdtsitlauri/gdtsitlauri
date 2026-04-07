@@ -71,7 +71,7 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
-    <td>Secure CPU-stack research with encrypted instruction fetch, encrypted-at-rest data handling, secure image sealing, runtime validation, and custom AES instruction support.</td>
+    <td>CryptoCPU with Secure 3D-Stacked Memory</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/caesar-framework">caesar-framework</a></td>
@@ -79,7 +79,7 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
-    <td>Research-grade prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
+    <td>Prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
@@ -91,7 +91,7 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">polaris-sdn-orchestrator</a></td>
-    <td>Research-grade orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
+    <td>Orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">evoo-adulteration-ai</a></td>
