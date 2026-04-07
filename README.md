@@ -31,37 +31,6 @@
 
 ---
 
-Academic and research portfolio spanning artificial intelligence, cybersecurity, secure systems, computer architecture, cyber-physical systems, distributed systems, cloud infrastructure, compilers, and data-intensive computing.
-
-## Academic Overview
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### Education
-- **BSc in Informatics and Telecommunications**
-- **University of Thessaly**
-- **Specialization:** Data Management and Artificial Intelligence
-
-### Graduate Studies
-- **MSc in Artificial Intelligence and Applications**
-- **University of Thessaly**
-
-    </td>
-    <td valign="top" width="50%">
-
-### Research Affiliation
-- **Research Laboratory of Computer Architecture, Compilers, and System Security**
-
-### Academic Direction
-- Long-term research path toward **PhD-level work**
-- Focus on **AI, secure systems, CPS security, intelligent infrastructure, and advanced computing architectures**
-
-    </td>
-  </tr>
-</table>
-
 ## Thesis Work
 
 <table>
@@ -75,15 +44,15 @@ Academic and research portfolio spanning artificial intelligence, cybersecurity,
     <td valign="top"><strong>BSc Thesis</strong></td>
     <td valign="top"><strong>Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA</strong></td>
     <td valign="top">
-      Design and implementation of a custom cryptographic processor supporting encrypted instructions, with emphasis on secure execution, instruction-level protection, and FPGA-based realization using C++, MIPS Assembly, and Xilinx Vivado.
+      Implementation and evaluation of a MIPS-like processor with an integrated AES-128 decryption stage in the pipeline, designed to execute only encrypted programs so that plaintext instructions do not appear in memory or FPGA buses.
     </td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
   </tr>
   <tr>
     <td valign="top"><strong>MSc Thesis</strong></td>
-    <td valign="top"><strong>Generalization in AI-Driven Intrusion Detection for Cyber-Physical Systems</strong></td>
+    <td valign="top"><strong>Robust and Generalizable AI-based Intrusion Detection for Cyber-Physical Systems</strong></td>
     <td valign="top">
-      Graduate research focused on intelligent intrusion detection for cyber-physical systems, with emphasis on robust generalization across heterogeneous environments. The work combines artificial intelligence, cybersecurity, and CPS-oriented analysis as part of a broader postgraduate research trajectory.
+      Graduate research on cross-domain generalization in AI-based intrusion detection for cyber-physical systems, including cross-dataset evaluation and the proposed GRACE-IDS method for more robust deployment across heterogeneous environments.
     </td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
   </tr>
@@ -100,35 +69,35 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
-    <td>Secure and advanced processor architecture research</td>
+    <td>Secure CPU-stack research with encrypted instruction fetch, encrypted-at-rest data handling, secure image sealing, runtime validation, and custom AES instruction support.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/caesar-framework">caesar-framework</a></td>
-    <td>Framework-oriented research and advanced systems experimentation</td>
+    <td>AI-driven co-evolutionary cyber-attack simulation and adaptive defense framework for attack, response, explainability, diffusion-based adversarial generation, and self-healing security research.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
-    <td>Advanced systems and intelligent infrastructure research</td>
+    <td>Research-grade prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
-    <td>AI-driven intrusion detection for cyber-physical systems</td>
+    <td>Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
-    <td>Research-oriented development in advanced computing systems</td>
+    <td>Training-free and explainable deepfake detection through multi-scale frequency forensics for face-centric temporal video analysis.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">chronos-edge-iot</a></td>
-    <td>Edge computing and intelligent IoT systems research</td>
+    <td>Edge-IoT offloading research framework combining causal-hypergraph modeling, spiking RL, simulator-based evaluation, baselines, ablations, and reproducibility tooling.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">polaris-sdn-orchestrator</a></td>
-    <td>SDN orchestration and programmable networking research</td>
+    <td>Research-grade orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">evoo-adulteration-ai</a></td>
-    <td>Applied artificial intelligence for intelligent analysis and classification</td>
+    <td>Reproducible machine-learning pipelines for extra-virgin olive oil authenticity and adulteration detection using FTIR and Raman spectroscopy.</td>
   </tr>
 </table>
 
@@ -143,51 +112,51 @@ Several of the following high-level research repositories are being developed wi
   <tr>
     <td valign="top">
       <a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">ccc-ir-optimizer</a><br />
-      IR code optimizer for the CCC C front-end translator
+      Optimizer for CCC intermediate-representation code, implementing analyses and classic compiler optimizations such as constant propagation, dead-code elimination, LICM, strength reduction, CSE, and control-flow simplification.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/parallel-aes-cuda">parallel-aes-cuda</a><br />
-      GPU-based parallel encryption with CUDA
+      CUDA implementation of AES encryption and decryption for high-performance GPU execution.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">gpbft-consensus-protocol</a><br />
-      Distributed consensus protocol implementation
+      Implementation of GPBFT, a group-based PBFT enhancement with group structuring and group signatures, tested in the SymBChainSim environment.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/build-a-compiler">build-a-compiler</a><br />
-      Custom compiler implementation from scratch
+      Mini C-like compiler built with Flex and Bison, including lexer, parser, symbol table, AST construction, and MIPS code generation.
     </td>
     <td valign="top">
       <a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">advanced-machine-learning-projects</a><br />
-      Machine learning and deep learning implementations
+      Collection of applied ML and deep-learning projects including CNNs, GANs, autoencoders, YOLOv8, transformers, RNNs, and PSO-based optimization.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/big-data-spark-taxi">big-data-spark-taxi</a><br />
-      Large-scale taxi trip analysis using Apache Spark and Hadoop
+      Analysis of NYC TLC taxi-trip data with Apache Spark and HDFS using RDDs, DataFrames, SQL, CSV vs Parquet comparisons, and Catalyst join-optimizer study.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">reinforcement-learning-experiments</a><br />
-      Reinforcement learning algorithms and experimentation
+      Python implementations of classic reinforcement-learning problems such as multi-armed bandits, blackjack, and grid world.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/tourism-data-mining">tourism-data-mining</a><br />
-      Data mining methods for tourism analytics
+      Tourism analytics project applying clustering, classification, and association-rule mining to real-world datasets.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/video-coding-for-machines">video-coding-for-machines</a><br />
-      Technical work on optimized video coding techniques
+      Research-oriented work on video compression tailored to machine vision and downstream inference rather than human perceptual quality.
     </td>
     <td valign="top">
       <a href="https://github.com/gdtsitlauri/egram-student-management-system">egram-student-management-system</a><br />
-      Student management platform for educational institutions
+      Desktop academic management system for student data built with PyQt and SQL.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a><br />
-      Web project about the island of Skyros
+      Responsive single-page web guide to the island of Skyros with curated content, animations, and interactive pop-ups.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/ostrichzoopark">ostrichzoopark</a><br />
-      Web project for Ostrich Zoo Park
+      Multilingual responsive website for Ostrich Zoo Park and Tavern THEA, with interactive galleries, SEO-oriented structure, and visitor information.
       <br /><br />
       <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">sony-audio-visualizer</a><br />
-      Audio visualization project
+      Retro Sony-inspired desktop audio visualizer for Windows, Linux, and macOS with real-time system loopback capture and smooth spectrum animation.
     </td>
   </tr>
 </table>
 
 <p>
-  In addition to the public repositories above, my development work also includes private full-stack and e-commerce projects built with modern web technologies, including Medusa.js-based systems.
+  Additional development work includes private full-stack and e-commerce projects built with modern web technologies, including Medusa.js-based systems.
 </p>
 
 ## Technical Skills
