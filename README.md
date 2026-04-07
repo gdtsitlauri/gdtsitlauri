@@ -6,27 +6,30 @@
   Currently pursuing the MSc in Artificial Intelligence and Applications, University of Thessaly
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
-  <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
-</p>
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap;">
+  <img height="20" src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
+  <img height="20" src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
+</div>
 
 
-<div align="center" style="display: flex; gap: 6px; justify-content: center; flex-wrap: nowrap;">
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap;">
   <img height="20" src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
   <img height="20" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
 </div>
 
 
-<div align="center" style="display: flex; gap: 6px; justify-content: center; flex-wrap: nowrap;">
-  <img height="18" src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
-  <img height="18" src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
-  <img height="18" src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
-  <img height="18" src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
-  <img height="18" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
-  <img height="18" src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
-  <img height="18" src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
-  <img height="18" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap;">
+  <img height="20" src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
+  <img height="20" src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
+  <img height="20" src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
+  <img height="20" src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
+  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
+  <img height="20" src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
+  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img height="20" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
 </div>
 
 ---
