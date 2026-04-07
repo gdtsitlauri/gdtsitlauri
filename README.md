@@ -8,8 +8,8 @@
 
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap;">
-  <img height="20" src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge&labelColor=fff&color=2563EB&labelTextColor=000" alt="MSc in Artificial Intelligence and Applications" />
-  <img height="20" src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge&labelColor=fff&color=DC2626&labelTextColor=000" alt="BSc in Informatics and Telecommunications" />
+  <img height="20" src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
+  <img height="20" src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
 </div>
 
 
