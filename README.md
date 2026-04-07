@@ -1,143 +1,287 @@
-# George David Tsitlauri
+<h1 align="center">George David Tsitlauri</h1>
 
-Graduate in Informatics and Telecommunications from the University of Thessaly, Greece, with specialization in Data Management and Artificial Intelligence. Member of the Research Laboratory of Computer Architecture, Compilers, and System Security.
+<p align="center">
+  Graduate in Informatics and Telecommunications, University of Thessaly
+  <br />
+  Currently pursuing the MSc in Artificial Intelligence and Applications, University of Thessaly
+</p>
 
-My work spans artificial intelligence, cybersecurity, computer architecture, secure systems, cyber-physical systems, distributed systems, cloud infrastructure, compilers, and data-intensive computing. This profile brings together academic work, research-oriented repositories, engineering projects, and long-term research preparation for future postgraduate and doctoral studies.
+<p align="center">
+  <a href="https://aia.dit.uth.gr/">
+    <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-0A66C2?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
+  </a>
+  <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-1F6FEB?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
+  <img src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-6F42C1?style=for-the-badge" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-2DA44E?style=for-the-badge" alt="Research Lab" />
+</p>
 
-## Academic Background
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Secure%20Systems-111111?style=flat-square" alt="Secure Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-111111?style=flat-square" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-111111?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-111111?style=flat-square" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-111111?style=flat-square" alt="Cyber-Physical Systems" />
+  <img src="https://img.shields.io/badge/Big%20Data-111111?style=flat-square" alt="Big Data" />
+</p>
 
-**University of Thessaly**  
-BSc in Informatics and Telecommunications  
-Specialization: Data Management and Artificial Intelligence
+---
+
+## Profile
+
+I am a graduate in Informatics and Telecommunications from the University of Thessaly, with specialization in Data Management and Artificial Intelligence, and a member of the Research Laboratory of Computer Architecture, Compilers, and System Security.
+
+I am currently pursuing the MSc in Artificial Intelligence and Applications at the University of Thessaly. My work spans artificial intelligence, cybersecurity, secure systems, computer architecture, cyber-physical systems, distributed systems, cloud infrastructure, compilers, and data-intensive computing.
+
+This profile brings together academic work, research-oriented repositories, engineering projects, and long-term research preparation aligned with future doctoral studies.
+
+---
+
+## Academic Overview
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Education
+- **BSc in Informatics and Telecommunications**
+- **University of Thessaly**
+- **Specialization:** Data Management and Artificial Intelligence
+
+### Current Graduate Studies
+- **MSc in Artificial Intelligence and Applications**
+- **University of Thessaly**
+
+    </td>
+    <td valign="top" width="50%">
+
+### Research Affiliation
+- **Research Laboratory of Computer Architecture, Compilers, and System Security**
+
+### Academic Direction
+- Research-oriented development with a long-term trajectory toward **PhD-level work**
+- Focus on building a coherent portfolio across **AI, secure systems, CPS security, distributed infrastructure, and advanced computing architectures**
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Research Interests
 
-- Artificial Intelligence and Machine Learning
-- Cybersecurity and System Security
-- Computer Architecture and Secure Processor Design
-- FPGA-Based Systems and Hardware-Software Co-Design
-- Cyber-Physical Systems
-- Intelligent Intrusion Detection Systems
-- Distributed Systems and Consensus Protocols
-- Cloud Computing and Scalable Infrastructure
-- Big Data Systems and Data Engineering
-- Compilers and Low-Level Systems Programming
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <ul>
+        <li>Artificial Intelligence and Machine Learning</li>
+        <li>Cybersecurity and System Security</li>
+        <li>Computer Architecture and Secure Processor Design</li>
+        <li>FPGA-Based Systems and Hardware-Software Co-Design</li>
+        <li>Cyber-Physical Systems</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li>Intelligent Intrusion Detection Systems</li>
+        <li>Distributed Systems and Consensus Protocols</li>
+        <li>Cloud Computing and Scalable Infrastructure</li>
+        <li>Big Data Systems and Data Engineering</li>
+        <li>Compilers and Low-Level Systems Programming</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Academic and Research Direction
-
-My academic trajectory is centered on building a strong and coherent research profile that connects completed undergraduate work with future postgraduate and doctoral research. A significant part of this profile is being developed with a long-term research perspective, particularly in artificial intelligence, secure systems, cyber-physical systems, and advanced computing architectures.
-
-Within this direction, **cps-ids-generalization** is intended as the basis for future MSc thesis development, while several additional research repositories are being prepared as long-term foundations for future PhD-level work.
+---
 
 ## Thesis Work
 
-### BSc Thesis
+<table>
+  <tr>
+    <th align="left">Level</th>
+    <th align="left">Title</th>
+    <th align="left">Description</th>
+    <th align="left">Repository</th>
+  </tr>
+  <tr>
+    <td valign="top"><strong>BSc Thesis</strong></td>
+    <td valign="top"><strong>Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA</strong></td>
+    <td valign="top">
+      Designed and implemented a custom cryptographic processor supporting encrypted instructions, with emphasis on secure execution and hardware-level cryptographic protection. The work explored processor architecture, instruction-level security, and FPGA-based implementation using C++, MIPS Assembly, and Xilinx Vivado.
+    </td>
+    <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>MSc Thesis</strong></td>
+    <td valign="top"><strong>Generalization in AI-Driven Intrusion Detection for Cyber-Physical Systems</strong></td>
+    <td valign="top">
+      Developed within my current graduate research direction, this work focuses on intelligent intrusion detection for cyber-physical systems with emphasis on generalization across heterogeneous environments. It brings together artificial intelligence, cybersecurity, and CPS-oriented analysis as part of a broader long-term research trajectory.
+    </td>
+    <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
+  </tr>
+</table>
 
-**Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA**  
-Repository: [CryptoCPU](https://github.com/gdtsitlauri/CryptoCPU)
-
-- Designed and implemented a custom cryptographic processor supporting encrypted instructions
-- Focused on secure execution and hardware-level cryptographic protection
-- Worked with C++, MIPS Assembly, and Xilinx Vivado for development, simulation, and testing
-- Explored processor architecture, instruction-level security, and FPGA-based implementation
-
-### Planned Graduate Thesis Direction
-
-Repository: [cps-ids-generalization](https://github.com/gdtsitlauri/cps-ids-generalization)
-
-This work is being developed as the foundation for future MSc thesis research in the broader area of artificial intelligence for cyber-physical systems and intelligent intrusion detection.
+---
 
 ## Research Portfolio
 
-The following repositories represent research-oriented work, advanced technical exploration, and long-term academic development:
+The following repositories represent research-oriented work, advanced technical exploration, and long-term academic development.
 
-- [Crypto3DStackCPU](https://github.com/gdtsitlauri/Crypto3DStackCPU) — Research on secure and advanced processor architecture design
-- [caesar-framework](https://github.com/gdtsitlauri/caesar-framework) — Research-oriented framework for advanced systems and computational experimentation
-- [atlas-trident](https://github.com/gdtsitlauri/atlas-trident) — Advanced research work in systems, architecture, or intelligent infrastructure
-- [cps-ids-generalization](https://github.com/gdtsitlauri/cps-ids-generalization) — AI-driven intrusion detection research for cyber-physical systems
-- [patv-x](https://github.com/gdtsitlauri/patv-x) — Research-oriented technical development in advanced computing and systems design
-- [chronos-edge-iot](https://github.com/gdtsitlauri/chronos-edge-iot) — Research on edge and IoT-oriented intelligent systems
-- [polaris-sdn-orchestrator](https://github.com/gdtsitlauri/polaris-sdn-orchestrator) — Research-oriented orchestration work in SDN and programmable infrastructure
-- [evoo-adulteration-ai](https://github.com/gdtsitlauri/evoo-adulteration-ai) — Applied AI research for quality analysis and intelligent classification
+<table>
+  <tr>
+    <th align="left">Repository</th>
+    <th align="left">Research Direction</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
+    <td>Secure and advanced processor architecture research</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/caesar-framework">caesar-framework</a></td>
+    <td>Research-oriented systems framework and technical experimentation</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
+    <td>Advanced systems and architecture-oriented research development</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
+    <td>AI-driven intrusion detection for cyber-physical systems</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
+    <td>Advanced computing and systems-oriented research work</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">chronos-edge-iot</a></td>
+    <td>Edge and IoT-oriented intelligent systems research</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">polaris-sdn-orchestrator</a></td>
+    <td>Programmable networking and SDN orchestration research</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">evoo-adulteration-ai</a></td>
+    <td>Applied artificial intelligence for intelligent analysis and classification</td>
+  </tr>
+</table>
+
+---
 
 ## Selected Public Projects
 
-### Systems, Security, and Infrastructure
+<table>
+  <tr>
+    <th align="left">Systems, Security, and Infrastructure</th>
+    <th align="left">Artificial Intelligence, Data, and Intelligent Systems</th>
+    <th align="left">Software and Web Development</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">ccc-ir-optimizer</a><br />
+      IR code optimizer for the CCC C front-end translator
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/parallel-aes-cuda">parallel-aes-cuda</a><br />
+      GPU-based parallel encryption with CUDA
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">gpbft-consensus-protocol</a><br />
+      Distributed consensus protocol implementation
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/build-a-compiler">build-a-compiler</a><br />
+      Custom compiler implementation from scratch
+    </td>
+    <td valign="top">
+      <a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">advanced-machine-learning-projects</a><br />
+      Machine learning and deep learning implementations
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/big-data-spark-taxi">big-data-spark-taxi</a><br />
+      Large-scale taxi trip analysis using Apache Spark and Hadoop
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">reinforcement-learning-experiments</a><br />
+      Reinforcement learning algorithms and experimentation
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/tourism-data-mining">tourism-data-mining</a><br />
+      Data mining methods for tourism analytics
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/video-coding-for-machines">video-coding-for-machines</a><br />
+      Technical work on optimized video coding techniques
+    </td>
+    <td valign="top">
+      <a href="https://github.com/gdtsitlauri/egram-student-management-system">egram-student-management-system</a><br />
+      Student management platform for educational institutions
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a><br />
+      Web project about the island of Skyros
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/ostrichzoopark">ostrichzoopark</a><br />
+      Web project for Ostrich Zoo Park
+      <br /><br />
+      <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">sony-audio-visualizer</a><br />
+      Audio visualization project
+    </td>
+  </tr>
+</table>
 
-- [ccc-ir-optimizer](https://github.com/gdtsitlauri/ccc-ir-optimizer) — IR code optimizer for the CCC C front-end translator
-- [parallel-aes-cuda](https://github.com/gdtsitlauri/parallel-aes-cuda) — GPU-based parallel encryption with CUDA
-- [gpbft-consensus-protocol](https://github.com/gdtsitlauri/gpbft-consensus-protocol) — Distributed consensus protocol implementation
-- [build-a-compiler](https://github.com/gdtsitlauri/build-a-compiler) — Custom compiler implementation from scratch
-
-### Artificial Intelligence, Data, and Intelligent Systems
-
-- [advanced-machine-learning-projects](https://github.com/gdtsitlauri/advanced-machine-learning-projects) — Machine learning and deep learning implementations
-- [big-data-spark-taxi](https://github.com/gdtsitlauri/big-data-spark-taxi) — Large-scale taxi trip analysis using Apache Spark and Hadoop
-- [reinforcement-learning-experiments](https://github.com/gdtsitlauri/reinforcement-learning-experiments) — Reinforcement learning algorithms and experimentation
-- [tourism-data-mining](https://github.com/gdtsitlauri/tourism-data-mining) — Data mining methods for tourism analytics
-- [video-coding-for-machines](https://github.com/gdtsitlauri/video-coding-for-machines) — Technical work on optimized video coding techniques
-
-### Software and Web Development
-
-- [egram-student-management-system](https://github.com/gdtsitlauri/egram-student-management-system) — Student management platform for educational institutions
-- [Skyrianos](https://github.com/gdtsitlauri/Skyrianos) — Web project about the island of Skyros
-- [ostrichzoopark](https://github.com/gdtsitlauri/ostrichzoopark) — Web project for Ostrich Zoo Park
-- [sony-audio-visualizer](https://github.com/gdtsitlauri/sony-audio-visualizer) — Audio visualization project
+---
 
 ## Additional Development Work
 
-In addition to the public repositories listed above, my development experience also includes private full-stack and e-commerce projects built with modern web technologies.
+In addition to the public repositories listed above, my development experience also includes private full-stack and e-commerce projects built with modern web technologies, including Medusa.js-based systems.
+
+---
 
 ## Technical Skills
 
-### Programming Languages
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Skills</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>C, C++, Java, Python, SQL, CUDA, MIPS Assembly, JavaScript, TypeScript, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks and Platforms</strong></td>
+    <td>React, Next.js, Tailwind CSS, Medusa.js, Docker, Kubernetes, Apache Spark, Hadoop</td>
+  </tr>
+  <tr>
+    <td><strong>Development and Research Tools</strong></td>
+    <td>Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma</td>
+  </tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>Linux, Windows</td>
+  </tr>
+</table>
 
-- C
-- C++
-- Java
-- Python
-- SQL
-- CUDA
-- MIPS Assembly
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-
-### Frameworks and Platforms
-
-- React
-- Next.js
-- Tailwind CSS
-- Medusa.js
-- Docker
-- Kubernetes
-- Apache Spark
-- Hadoop
-
-### Development and Research Tools
-
-- Xilinx Vivado
-- Git
-- CMake
-- Jupyter Notebook
-- Visual Studio
-- VS Code
-- Wireshark
-- VirtualBox
-- Figma
-
-### Operating Systems
-
-- Linux
-- Windows
+---
 
 ## Languages
 
-- Greek — Native
-- Russian — Native
-- English — B2 (ECCE, University of Michigan)
+<table>
+  <tr>
+    <th align="left">Language</th>
+    <th align="left">Level</th>
+  </tr>
+  <tr>
+    <td>Greek</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>Russian</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>B2 (ECCE, University of Michigan)</td>
+  </tr>
+</table>
+
+---
 
 ## Profile Statement
 
-This GitHub profile documents my academic background, research preparation, and technical work across artificial intelligence, secure systems, computer architecture, cyber-physical systems, distributed computing, cloud infrastructure, and software engineering. It reflects both completed work and the broader research direction I am developing toward future MSc and PhD studies.
+This GitHub profile documents my academic background, ongoing graduate studies, research preparation, and technical work across artificial intelligence, secure systems, computer architecture, cyber-physical systems, distributed computing, cloud infrastructure, and software engineering. It reflects both completed work and the broader research direction I am developing toward future PhD-level studies.
