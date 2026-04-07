@@ -80,7 +80,7 @@ Academic and research portfolio spanning artificial intelligence, cybersecurity,
     <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
   </tr>
   <tr>
-    <td valign="top"><strong>MSc Thesis Research</strong></td>
+    <td valign="top"><strong>MSc Thesis</strong></td>
     <td valign="top"><strong>Generalization in AI-Driven Intrusion Detection for Cyber-Physical Systems</strong></td>
     <td valign="top">
       Graduate research focused on intelligent intrusion detection for cyber-physical systems, with emphasis on robust generalization across heterogeneous environments. The work combines artificial intelligence, cybersecurity, and CPS-oriented analysis as part of a broader postgraduate research trajectory.
