@@ -175,7 +175,11 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><strong>Development and Research Tools</strong></td>
-    <td>Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma, Shell/Bash, Flex, Bison, K9s, GitHub Copilot</td>
+    <td>Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma, Shell/Bash, Flex, Bison, K9s</td>
+  </tr>
+  <tr>
+    <td><strong>AI Coding Assistants</strong></td>
+    <td>Codex, Claude, Code, GitHub Copilot</td>
   </tr>
   <tr>
     <td><strong>Operating Systems</strong></td>
@@ -183,23 +187,3 @@ Several of the following high-level research repositories are being developed wi
   </tr>
 </table>
 
-## Languages
-
-<table>
-  <tr>
-    <th align="left">Language</th>
-    <th align="left">Level</th>
-  </tr>
-  <tr>
-    <td>Greek</td>
-    <td>Native</td>
-  </tr>
-  <tr>
-    <td>Russian</td>
-    <td>Native</td>
-  </tr>
-  <tr>
-    <td>English</td>
-    <td>B2 (ECCE, University of Michigan)</td>
-  </tr>
-</table>
