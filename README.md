@@ -179,7 +179,7 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><strong>AI Coding Assistants</strong></td>
-    <td>Codex, Claude, Code, GitHub Copilot</td>
+    <td>Codex, Claude Code, GitHub Copilot</td>
   </tr>
   <tr>
     <td><strong>Operating Systems</strong></td>
