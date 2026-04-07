@@ -143,7 +143,7 @@ Several of the following high-level research repositories are being developed wi
       <a href="https://github.com/gdtsitlauri/ostrichzoopark">OstrichZooPark</a><br />
       Multilingual responsive website for Ostrich Zoo Park and Tavern THEA, with interactive galleries, SEO-oriented structure, and visitor information.
       <br /><br />
-      <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">sony-audio-visualizer</a><br />
+      <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">Sony Audio Visualizer</a><br />
       Retro Sony-inspired desktop audio visualizer for Windows, Linux, and macOS with real-time system loopback capture and smooth spectrum animation.
     </td>
   </tr>
