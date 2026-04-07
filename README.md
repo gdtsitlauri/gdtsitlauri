@@ -11,24 +11,23 @@
   <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
-</p>
 
-<p align="center">
-  <img height="24" src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
-  <img height="24" src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
-  <img height="24" src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
-  <img height="24" src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
-</p>
+<div align="center" style="display: flex; gap: 6px; justify-content: center; flex-wrap: nowrap;">
+  <img height="20" src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
+  <img height="20" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
+</div>
 
-<p align="center">
-  <img height="24" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
-  <img height="24" src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
-  <img height="24" src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
-  <img height="24" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
-</p>
+
+<div align="center" style="display: flex; gap: 6px; justify-content: center; flex-wrap: nowrap;">
+  <img height="18" src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
+  <img height="18" src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
+  <img height="18" src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
+  <img height="18" src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
+  <img height="18" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
+  <img height="18" src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
+  <img height="18" src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img height="18" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
+</div>
 
 ---
 
@@ -165,15 +164,15 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>C, C++, Java, Python, SQL, CUDA, MIPS Assembly, JavaScript, TypeScript, HTML5, CSS3</td>
+    <td>C, C++, Java, Python, SQL, CUDA, MIPS Assembly, JavaScript, TypeScript, HTML5, CSS3, TeX</td>
   </tr>
   <tr>
     <td><strong>Frameworks and Platforms</strong></td>
-    <td>React, Next.js, Tailwind CSS, Medusa.js, Docker, Kubernetes, Apache Spark, Hadoop</td>
+    <td>React, Next.js, Node.js, Tailwind CSS, Medusa.js, Docker, Kubernetes, Apache Spark, Apache Hadoop</td>
   </tr>
   <tr>
     <td><strong>Development and Research Tools</strong></td>
-    <td>Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma</td>
+    <td>Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma, Shell/Bash, Flex, Bison, K9s, GitHub Copilot</td>
   </tr>
   <tr>
     <td><strong>Operating Systems</strong></td>
