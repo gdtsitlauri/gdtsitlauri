@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aia.dit.uth.gr/">
-    <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
-  </a>
+  <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
   <img src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
 </p>
 
@@ -19,14 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F97316?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Cybersecurity-EC4899?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Secure%20Systems-14B8A6?style=flat-square" alt="Secure Systems" />
-  <img src="https://img.shields.io/badge/Computer%20Architecture-A16207?style=flat-square" alt="Computer Architecture" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-52525B?style=flat-square" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-7C2D12?style=flat-square" alt="Cloud Infrastructure" />
-  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-65A30D?style=flat-square" alt="Cyber-Physical Systems" />
-  <img src="https://img.shields.io/badge/Big%20Data-C026D3?style=flat-square" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F766E?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Secure%20Systems-0C4A6E?style=for-the-badge" alt="Secure Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-92400E?style=for-the-badge" alt="Computer Architecture" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0369A1?style=for-the-badge" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Cyber--Physical%20Systems-4D7C0F?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
 </p>
 
 ---
@@ -52,7 +53,7 @@
     <td valign="top"><strong>MSc Thesis</strong></td>
     <td valign="top"><strong>Robust and Generalizable AI-based Intrusion Detection for Cyber-Physical Systems</strong></td>
     <td valign="top">
-      Graduate research on cross-domain generalization in AI-based intrusion detection for cyber-physical systems, including cross-dataset evaluation and the proposed GRACE-IDS method for more robust deployment across heterogeneous environments.
+      Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.
     </td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
   </tr>
@@ -78,10 +79,6 @@ Several of the following high-level research repositories are being developed wi
   <tr>
     <td><a href="https://github.com/gdtsitlauri/atlas-trident">atlas-trident</a></td>
     <td>Research-grade prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gdtsitlauri/cps-ids-generalization">cps-ids-generalization</a></td>
-    <td>Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/patv-x">patv-x</a></td>
