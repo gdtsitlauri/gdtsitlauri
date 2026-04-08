@@ -17,13 +17,13 @@
 <br />
 
 <div align="center" style="white-space: nowrap;">
-  <img height="20" src="https://img.shields.io/badge/Cybersecurity-ef4444?style=for-the-badge" alt="Cybersecurity" />
-  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-0ea5e9?style=for-the-badge" alt="Distributed Systems" />
-  <img height="20" src="https://img.shields.io/badge/Cloud-22c55e?style=for-the-badge" alt="Cloud" />
-  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-fbbf24?style=for-the-badge" alt="Cyber-Physical Systems" />
-  <img height="20" src="https://img.shields.io/badge/Big%20Data-6366f1?style=for-the-badge" alt="Big Data" />
-  <img height="20" src="https://img.shields.io/badge/Full--Stack%20Web%20Development-f472b6?style=for-the-badge" alt="Full-Stack Web Development" />
-  <img height="20" src="https://img.shields.io/badge/Parallel%20Computing-10b981?style=for-the-badge" alt="Parallel Computing" />
+  <img height="20" src="https://img.shields.io/badge/Cybersecurity-e11d48?style=for-the-badge" alt="Cybersecurity" />
+  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-0d9488?style=for-the-badge" alt="Distributed Systems" />
+  <img height="20" src="https://img.shields.io/badge/Cloud-7c3aed?style=for-the-badge" alt="Cloud" />
+  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-facc15?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img height="20" src="https://img.shields.io/badge/Big%20Data-ef4444?style=for-the-badge" alt="Big Data" />
+  <img height="20" src="https://img.shields.io/badge/Full--Stack%20Web%20Development-22d3ee?style=for-the-badge" alt="Full-Stack Web Development" />
+  <img height="20" src="https://img.shields.io/badge/Parallel%20Computing-84cc16?style=for-the-badge" alt="Parallel Computing" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
     <td valign="top">
       Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.
     </td>
-    <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">CPS-IDS-Generalization</a></td>
+    <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">CPS IDS</a></td>
   </tr>
 </table>
 
@@ -69,27 +69,27 @@ Several of the following high-level research repositories are being developed wi
     <td>CryptoCPU with Secure 3D-Stacked Memory</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/caesar-framework">Caesar-Framework</a></td>
+    <td><a href="https://github.com/gdtsitlauri/caesar-framework">Caesar Framework</a></td>
     <td>AI-driven co-evolutionary cyber-attack simulation and adaptive defense framework for attack, response, explainability, diffusion-based adversarial generation, and self-healing security research.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/atlas-trident">Atlas-Trident</a></td>
+    <td><a href="https://github.com/gdtsitlauri/atlas-trident">Atlas Trident</a></td>
     <td>Prototype for decentralized cloud autonomy using digital twins, constrained LLM planning, reinforcement learning adaptation, and TRIDENT governance with a permissioned ledger.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/patv-x">Patv-X</a></td>
+    <td><a href="https://github.com/gdtsitlauri/patv-x">Patv X</a></td>
     <td>Training-free and explainable deepfake detection through multi-scale frequency forensics for face-centric temporal video analysis.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">Chronos-Edge-IOT</a></td>
+    <td><a href="https://github.com/gdtsitlauri/chronos-edge-iot">Chronos Edge IOT</a></td>
     <td>Edge-IoT offloading research framework combining causal-hypergraph modeling, spiking RL, simulator-based evaluation, baselines, ablations, and reproducibility tooling.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">Polaris-SDN-Orchestrator</a></td>
+    <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">Polaris SDN Orchestrator</a></td>
     <td>Orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">EVOO-Adulteration-AI</a></td>
+    <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">EVOO Adulteration AI</a></td>
     <td>Reproducible machine-learning pipelines for extra-virgin olive oil authenticity and adulteration detection using FTIR and Raman spectroscopy.</td>
   </tr>
 </table>
