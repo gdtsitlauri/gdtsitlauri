@@ -17,13 +17,13 @@
 <br />
 
 <div align="center" style="white-space: nowrap;">
-  <img height="20" src="https://img.shields.io/badge/Cybersecurity-7F1D1D?style=for-the-badge" alt="Cybersecurity" />
-  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-3F3F46?style=for-the-badge" alt="Distributed Systems" />
-  <img height="20" src="https://img.shields.io/badge/Cloud-0369A1?style=for-the-badge" alt="Cloud" />
-  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-f59e42?style=for-the-badge" alt="Cyber-Physical Systems" />
-  <img height="20" src="https://img.shields.io/badge/Big%20Data-86198F?style=for-the-badge" alt="Big Data" />
-  <img height="20" src="https://img.shields.io/badge/Full--Stack%20Web%20Development-0ea5e9?style=for-the-badge" alt="Full-Stack Web Development" />
-  <img height="20" src="https://img.shields.io/badge/Parallel%20Computing-9333ea?style=for-the-badge" alt="Parallel Computing" />
+  <img height="20" src="https://img.shields.io/badge/Cybersecurity-ef4444?style=for-the-badge" alt="Cybersecurity" />
+  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-0ea5e9?style=for-the-badge" alt="Distributed Systems" />
+  <img height="20" src="https://img.shields.io/badge/Cloud-22c55e?style=for-the-badge" alt="Cloud" />
+  <img height="20" src="https://img.shields.io/badge/Cyber--Physical%20Systems-fbbf24?style=for-the-badge" alt="Cyber-Physical Systems" />
+  <img height="20" src="https://img.shields.io/badge/Big%20Data-6366f1?style=for-the-badge" alt="Big Data" />
+  <img height="20" src="https://img.shields.io/badge/Full--Stack%20Web%20Development-f472b6?style=for-the-badge" alt="Full-Stack Web Development" />
+  <img height="20" src="https://img.shields.io/badge/Parallel%20Computing-10b981?style=for-the-badge" alt="Parallel Computing" />
 </div>
 
 ---
