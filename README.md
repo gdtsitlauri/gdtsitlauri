@@ -17,10 +17,10 @@
 <br />
 
 <div align="center" style="white-space: nowrap;">
-  <img height="20" src="https://img.shields.io/badge/Cybersecurity-f97316?style=for-the-badge" alt="Cybersecurity" />
-  <img height="20" src="https://img.shields.io/badge/Infrastructure-0d9488?style=for-the-badge" alt="Infrastructure" />
-  <img height="20" src="https://img.shields.io/badge/Intelligent%20Systems-06b6d4?style=for-the-badge" alt="Intelligent Systems" />
-  <img height="20" src="https://img.shields.io/badge/Development-800020?style=for-the-badge" alt="Development" />
+  <img height="21" src="https://img.shields.io/badge/Cybersecurity-f97316?style=for-the-badge" alt="Cybersecurity" />
+  <img height="21" src="https://img.shields.io/badge/Infrastructure-0d9488?style=for-the-badge" alt="Infrastructure" />
+  <img height="21" src="https://img.shields.io/badge/Intelligent%20Systems-06b6d4?style=for-the-badge" alt="Intelligent Systems" />
+  <img height="21" src="https://img.shields.io/badge/Development-800020?style=for-the-badge" alt="Development" />
 </div>
 
 ---
