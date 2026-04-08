@@ -18,12 +18,9 @@
 
 <div align="center" style="white-space: nowrap;">
   <img height="20" src="https://img.shields.io/badge/Cybersecurity-f97316?style=for-the-badge" alt="Cybersecurity" />
-  <img height="20" src="https://img.shields.io/badge/Distributed%20Systems-0d9488?style=for-the-badge" alt="Distributed Systems" />
-  <img height="20" src="https://img.shields.io/badge/Cloud-06b6d4?style=for-the-badge" alt="Cloud" />
-  <img height="20" src="https://img.shields.io/badge/IOT-0f172a?style=for-the-badge&labelColor=0f172a&color=0f172a&logoColor=fff" alt="IOT" />
-  <img height="20" src="https://img.shields.io/badge/Big%20Data-ef4444?style=for-the-badge" alt="Big Data" />
-  <img height="20" src="https://img.shields.io/badge/Full--Stack%20Web%20Development-22d3ee?style=for-the-badge" alt="Full-Stack Web Development" />
-  <img height="20" src="https://img.shields.io/badge/Parallel%20Computing-84cc16?style=for-the-badge" alt="Parallel Computing" />
+  <img height="20" src="https://img.shields.io/badge/Infrastructure-0d9488?style=for-the-badge" alt="Infrastructure" />
+  <img height="20" src="https://img.shields.io/badge/Intelligent%20Systems-06b6d4?style=for-the-badge" alt="Intelligent Systems" />
+  <img height="20" src="https://img.shields.io/badge/Development-800020?style=for-the-badge" alt="Development" />
 </div>
 
 ---
