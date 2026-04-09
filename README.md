@@ -21,6 +21,7 @@
   <img height="21" src="https://img.shields.io/badge/Infrastructure-0d9488?style=for-the-badge" alt="Infrastructure" />
   <img height="21" src="https://img.shields.io/badge/Intelligent%20Systems-06b6d4?style=for-the-badge" alt="Intelligent Systems" />
   <img height="21" src="https://img.shields.io/badge/Development-800020?style=for-the-badge" alt="Development" />
+  <img height="21" src="https://img.shields.io/badge/Network-ca8a04?style=for-the-badge" alt="Network" />
 </div>
 
 ---
@@ -62,6 +63,10 @@ Several of the following high-level research repositories are being developed wi
     <th align="left">Research Direction</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/gdtsitlauri/cuda-zkml">CUDA zkML</a></td>
+    <td>CUDA-native zkML prover for zero-knowledge proofs of neural-network inference on consumer NVIDIA GPUs.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
     <td>CryptoCPU with Secure 3D-Stacked Memory</td>
   </tr>
@@ -84,6 +89,10 @@ Several of the following high-level research repositories are being developed wi
   <tr>
     <td><a href="https://github.com/gdtsitlauri/polaris-sdn-orchestrator">POLARIS SDN Orchestrator</a></td>
     <td>Orchestration framework for SDN and cloud environments based on parallel Pareto-Lyapunov scheduling and intent-aware service placement.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gdtsitlauri/gate-6g">Gate-6G</a></td>
+    <td>Goal-aware adaptive semantic transmission, split inference, and wireless-aware control for AI-native edge networks.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/gdtsitlauri/evoo-adulteration-ai">EVOO Adulteration AI</a></td>
