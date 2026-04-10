@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td valign="top"><a href="https://github.com/gdtsitlauri/odyssey-quantum">Odyssey Quantum</a></td>
-<td valign="top">Quantum-focused research repository for experiments and exploration.</td>
+<td valign="top">Hybrid quantum-classical research framework for risk-aware intrusion detection in post-quantum environments.</td>
 </tr>
 <tr>
 <td valign="top"><a href="https://github.com/gdtsitlauri/cuda-zkml">CUDA zkML</a></td>
