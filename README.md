@@ -90,17 +90,17 @@
 </tr>
 </table>
 
-<h2>Selected Public Projects</h2>
+<h2>Projects</h2>
 
 <table width="100%">
 <tr>
-<th align="left" width="33%">Systems, Security, and Infrastructure</th>
 <th align="left" width="33%">AI, Data, and Intelligent Systems</th>
+<th align="left" width="33%">Systems, Security, and Infrastructure</th>
 <th align="left" width="34%">Software and Web Development</th>
 </tr>
 <tr>
+<td valign="top" width="33%"><p><strong><a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">Advanced AI Projects</a></strong><br>Collection of applied ML and deep-learning projects including CNNs, GANs, autoencoders, YOLOv8, transformers, RNNs, and PSO-based optimization.</p><p><strong><a href="https://github.com/gdtsitlauri/weather-app-autoscaler-k8s">Weather App Autoscaler</a></strong><br>A scalable weather app with auto scaling based on load and weather data.</p><p><strong><a href="https://github.com/gdtsitlauri/big-data-spark-taxi">Big Data Spark Taxi</a></strong><br>Analysis of NYC TLC taxi-trip data with Apache Spark and HDFS using RDDs, DataFrames, SQL, CSV vs Parquet comparisons, and Catalyst join-optimizer study.</p><p><strong><a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">Reinforcement Learning Experiments</a></strong><br>Python implementations of classic reinforcement-learning problems such as multi-armed bandits, blackjack, and grid world.</p><p><strong><a href="https://github.com/gdtsitlauri/tourism-data-mining">Tourism Data Mining</a></strong><br>Tourism analytics project applying clustering, classification, and association-rule mining to real-world datasets.</p><p><strong><a href="https://github.com/gdtsitlauri/video-coding-for-machines">Video Coding for Machines</a></strong><br>Research-oriented work on video compression tailored to machine vision and downstream inference rather than human perceptual quality.</p></td>
 <td valign="top" width="33%"><p><strong><a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">CCC IR Optimizer</a></strong><br>Optimizer for CCC intermediate-representation code, implementing analyses and classic compiler optimizations such as constant propagation, dead-code elimination, LICM, strength reduction, CSE, and control-flow simplification.</p><p><strong><a href="https://github.com/gdtsitlauri/parallel-aes-cuda">Parallel AES CUDA</a></strong><br>CUDA implementation of AES encryption and decryption for high-performance GPU execution.</p><p><strong><a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">GPBFT Consensus Protocol</a></strong><br>Implementation of GPBFT, a group-based PBFT enhancement with group structuring and group signatures, tested in the SymBChainSim environment.</p><p><strong><a href="https://github.com/gdtsitlauri/build-a-compiler">Build a Compiler</a></strong><br>Mini C-like compiler built with Flex and Bison, including lexer, parser, symbol table, AST construction, and MIPS code generation.</p></td>
-<td valign="top" width="33%"><p><strong><a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">Advanced AI Projects</a></strong><br>Collection of applied ML and deep-learning projects including CNNs, GANs, autoencoders, YOLOv8, transformers, RNNs, and PSO-based optimization.</p><p><strong><a href="https://github.com/gdtsitlauri/big-data-spark-taxi">Big Data Spark Taxi</a></strong><br>Analysis of NYC TLC taxi-trip data with Apache Spark and HDFS using RDDs, DataFrames, SQL, CSV vs Parquet comparisons, and Catalyst join-optimizer study.</p><p><strong><a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">Reinforcement Learning Experiments</a></strong><br>Python implementations of classic reinforcement-learning problems such as multi-armed bandits, blackjack, and grid world.</p><p><strong><a href="https://github.com/gdtsitlauri/tourism-data-mining">Tourism Data Mining</a></strong><br>Tourism analytics project applying clustering, classification, and association-rule mining to real-world datasets.</p><p><strong><a href="https://github.com/gdtsitlauri/video-coding-for-machines">Video Coding for Machines</a></strong><br>Research-oriented work on video compression tailored to machine vision and downstream inference rather than human perceptual quality.</p></td>
 <td valign="top" width="34%"><p><strong><a href="https://github.com/gdtsitlauri/egram-student-management-system">Egram Student Management System</a></strong><br>Desktop academic management system for student data built with PyQt and SQL.</p><p><strong><a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a></strong><br>Responsive single-page web guide to the island of Skyros with curated content, animations, and interactive pop-ups.</p><p><strong><a href="https://github.com/gdtsitlauri/ostrichzoopark">OstrichZooPark</a></strong><br>Multilingual responsive website for Ostrich Zoo Park and Tavern THEA, with interactive galleries, SEO-oriented structure, and visitor information.</p><p><strong><a href="https://github.com/gdtsitlauri/sony-audio-visualizer">Sony Audio Visualizer</a></strong><br>Retro Sony-inspired desktop audio visualizer for Windows, Linux, and macOS with real-time system loopback capture and smooth spectrum animation.</p></td>
 </tr>
 </table>
@@ -115,15 +115,15 @@
 <th align="left">Skills</th>
 </tr>
 <tr>
-<td valign="top"><strong>Programming Languages</strong></td>
-<td valign="top">C, C++, Java, Python, SQL, CUDA, MIPS Assembly, JavaScript, TypeScript, HTML5, CSS3, TeX</td>
+<td valign="top"><strong>Languages</strong></td>
+<td valign="top">C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML5, CSS3, JavaScript, TypeScript</td>
 </tr>
 <tr>
-<td valign="top"><strong>Frameworks and Platforms</strong></td>
+<td valign="top"><strong>Frameworks &amp; Platforms</strong></td>
 <td valign="top">React, Next.js, Node.js, Tailwind CSS, Medusa.js, Docker, Kubernetes, Apache Spark, Apache Hadoop</td>
 </tr>
 <tr>
-<td valign="top"><strong>Development and Research Tools</strong></td>
+<td valign="top"><strong>Dev &amp; Research Tools</strong></td>
 <td valign="top">Xilinx Vivado, Git, CMake, Jupyter Notebook, Visual Studio, VS Code, Wireshark, VirtualBox, Figma, Shell/Bash, Flex, Bison, K9s</td>
 </tr>
 <tr>
