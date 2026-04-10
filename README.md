@@ -53,6 +53,10 @@
 <th align="left">Research Direction</th>
 </tr>
 <tr>
+<td valign="top"><a href="https://github.com/gdtsitlauri/odyssey-quantum">Odyssey Quantum</a></td>
+<td valign="top">Quantum-focused research repository for experiments and exploration.</td>
+</tr>
+<tr>
 <td valign="top"><a href="https://github.com/gdtsitlauri/cuda-zkml">CUDA zkML</a></td>
 <td valign="top">CUDA-native zkML prover for zero-knowledge proofs of neural-network inference on consumer NVIDIA GPUs.</td>
 </tr>
