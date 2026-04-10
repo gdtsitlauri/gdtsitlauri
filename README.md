@@ -1,32 +1,28 @@
 <h1 align="center">George David Tsitlauri</h1>
 
-<div align="center" style="white-space: nowrap;">
+<p align="center">
   <img height="30" src="https://img.shields.io/badge/MSc-Artificial%20Intelligence%20and%20Applications-2563EB?style=for-the-badge" alt="MSc in Artificial Intelligence and Applications" />
   <img height="30" src="https://img.shields.io/badge/BSc-Informatics%20and%20Telecommunications-DC2626?style=for-the-badge" alt="BSc in Informatics and Telecommunications" />
-</div>
+</p>
 
-<br />
-
-<div align="center" style="white-space: nowrap;">
+<p align="center">
   <img height="22" src="https://img.shields.io/badge/Specialization-Data%20Management%20and%20Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Specialization" />
   <img height="22" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge" alt="Research Lab" />
-</div>
+</p>
 
-<br />
-
-<div align="center" style="white-space: nowrap;">
+<p align="center">
   <img height="21" src="https://img.shields.io/badge/Cybersecurity-f97316?style=for-the-badge" alt="Cybersecurity" />
   <img height="21" src="https://img.shields.io/badge/Infrastructure-0d9488?style=for-the-badge" alt="Infrastructure" />
   <img height="21" src="https://img.shields.io/badge/Intelligent%20Systems-06b6d4?style=for-the-badge" alt="Intelligent Systems" />
   <img height="21" src="https://img.shields.io/badge/Development-800020?style=for-the-badge" alt="Development" />
   <img height="21" src="https://img.shields.io/badge/Network-ca8a04?style=for-the-badge" alt="Network" />
-</div>
+</p>
 
----
+<hr>
 
-## Thesis Work
+<h2>Thesis Work</h2>
 
-<table width="100%">
+<table>
   <tr>
     <th align="left">Level</th>
     <th align="left">Title</th>
@@ -36,26 +32,24 @@
   <tr>
     <td valign="top"><strong>BSc Thesis</strong></td>
     <td valign="top"><strong>Design and Implementation of an Encrypted Instruction Set Processor (CryptoCPU) on FPGA</strong></td>
-    <td valign="top">
-      Implementation and evaluation of a MIPS-like processor with an integrated AES-128 decryption stage in the pipeline, designed to execute only encrypted programs.
-    </td>
+    <td valign="top">Implementation and evaluation of a MIPS-like processor with an integrated AES-128 decryption stage in the pipeline, designed to execute only encrypted programs.</td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/CryptoCPU">CryptoCPU</a></td>
   </tr>
   <tr>
     <td valign="top"><strong>MSc Thesis</strong></td>
     <td valign="top"><strong>Robust and Generalizable AI-based Intrusion Detection for Cyber-Physical Systems</strong></td>
-    <td valign="top">
-      Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.
-    </td>
+    <td valign="top">Cross-domain analysis of AI-based intrusion detection across heterogeneous IDS datasets, centered on robustness, transferability, and the GRACE-IDS approach.</td>
     <td valign="top"><a href="https://github.com/gdtsitlauri/cps-ids-generalization">CPS IDS</a></td>
   </tr>
 </table>
 
-## Research Portfolio
+<h2>Research Portfolio</h2>
 
-Several of the following high-level research repositories are being developed with a long-term perspective toward future PhD-level research.
+<p>
+  Several of the following high-level research repositories are being developed with a long-term perspective toward future PhD-level research.
+</p>
 
-<table width="100%">
+<table>
   <tr>
     <th align="left">Repository</th>
     <th align="left">Research Direction</th>
@@ -66,7 +60,7 @@ Several of the following high-level research repositories are being developed wi
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU">Crypto3DStackCPU</a></td>
-    <td valign="top">CryptoCPU with Secure 3D-Stacked Memory</td>
+    <td valign="top">CryptoCPU with Secure 3D-Stacked Memory.</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/gdtsitlauri/caesar-framework">CAESAR Framework</a></td>
@@ -98,67 +92,67 @@ Several of the following high-level research repositories are being developed wi
   </tr>
 </table>
 
-## Selected Public Projects
+<h2>Selected Public Projects</h2>
 
-<table width="100%">
+<table>
   <tr>
-    <th align="left" width="33.33%">Systems, Security, and Infrastructure</th>
-    <th align="left" width="33.33%">AI, Data, and Intelligent Systems</th>
-    <th align="left" width="33.33%">Software and Web Development</th>
+    <th align="left">Systems, Security, and Infrastructure</th>
+    <th align="left">AI, Data, and Intelligent Systems</th>
+    <th align="left">Software and Web Development</th>
   </tr>
   <tr>
-    <td valign="top" width="33.33%">
-      <a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">CCC IR Optimizer</a><br />
+    <td valign="top">
+      <strong><a href="https://github.com/gdtsitlauri/ccc-ir-optimizer">CCC IR Optimizer</a></strong><br>
       Optimizer for CCC intermediate-representation code, implementing analyses and classic compiler optimizations such as constant propagation, dead-code elimination, LICM, strength reduction, CSE, and control-flow simplification.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/parallel-aes-cuda">Parallel AES CUDA</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/parallel-aes-cuda">Parallel AES CUDA</a></strong><br>
       CUDA implementation of AES encryption and decryption for high-performance GPU execution.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">GPBFT Consensus Protocol</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/gpbft-consensus-protocol">GPBFT Consensus Protocol</a></strong><br>
       Implementation of GPBFT, a group-based PBFT enhancement with group structuring and group signatures, tested in the SymBChainSim environment.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/build-a-compiler">Build a Compiler</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/build-a-compiler">Build a Compiler</a></strong><br>
       Mini C-like compiler built with Flex and Bison, including lexer, parser, symbol table, AST construction, and MIPS code generation.
     </td>
 
-    <td valign="top" width="33.33%">
-      <a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">Advanced AI Projects</a><br />
+    <td valign="top">
+      <strong><a href="https://github.com/gdtsitlauri/advanced-machine-learning-projects">Advanced AI Projects</a></strong><br>
       Collection of applied ML and deep-learning projects including CNNs, GANs, autoencoders, YOLOv8, transformers, RNNs, and PSO-based optimization.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/big-data-spark-taxi">Big Data Spark Taxi</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/big-data-spark-taxi">Big Data Spark Taxi</a></strong><br>
       Analysis of NYC TLC taxi-trip data with Apache Spark and HDFS using RDDs, DataFrames, SQL, CSV vs Parquet comparisons, and Catalyst join-optimizer study.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">Reinforcement Learning Experiments</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/reinforcement-learning-experiments">Reinforcement Learning Experiments</a></strong><br>
       Python implementations of classic reinforcement-learning problems such as multi-armed bandits, blackjack, and grid world.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/tourism-data-mining">Tourism Data Mining</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/tourism-data-mining">Tourism Data Mining</a></strong><br>
       Tourism analytics project applying clustering, classification, and association-rule mining to real-world datasets.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/video-coding-for-machines">Video Coding for Machines</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/video-coding-for-machines">Video Coding for Machines</a></strong><br>
       Research-oriented work on video compression tailored to machine vision and downstream inference rather than human perceptual quality.
     </td>
 
-    <td valign="top" width="33.33%">
-      <a href="https://github.com/gdtsitlauri/egram-student-management-system">Egram Student Management System</a><br />
+    <td valign="top">
+      <strong><a href="https://github.com/gdtsitlauri/egram-student-management-system">Egram Student Management System</a></strong><br>
       Desktop academic management system for student data built with PyQt and SQL.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/Skyrianos">Skyrianos</a></strong><br>
       Responsive single-page web guide to the island of Skyros with curated content, animations, and interactive pop-ups.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/ostrichzoopark">OstrichZooPark</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/ostrichzoopark">OstrichZooPark</a></strong><br>
       Multilingual responsive website for Ostrich Zoo Park and Tavern THEA, with interactive galleries, SEO-oriented structure, and visitor information.
-      <br /><br />
+      <br><br>
 
-      <a href="https://github.com/gdtsitlauri/sony-audio-visualizer">Sony Audio Visualizer</a><br />
+      <strong><a href="https://github.com/gdtsitlauri/sony-audio-visualizer">Sony Audio Visualizer</a></strong><br>
       Retro Sony-inspired desktop audio visualizer for Windows, Linux, and macOS with real-time system loopback capture and smooth spectrum animation.
     </td>
   </tr>
@@ -168,9 +162,9 @@ Several of the following high-level research repositories are being developed wi
   Additional development work includes private full-stack and e-commerce projects built with modern web technologies, including Medusa.js-based systems.
 </p>
 
-## Technical Skills
+<h2>Technical Skills</h2>
 
-<table width="100%">
+<table>
   <tr>
     <th align="left">Category</th>
     <th align="left">Skills</th>
