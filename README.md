@@ -70,6 +70,8 @@
 
 <tr><td><a href="https://github.com/gdtsitlauri/hephaestus-mac-core"><b>HEPHAESTUS-HDL</b></a></td>
 <td>INT8 MAC and systolic datapath on SkyWater 130nm ASIC — CYCLOPS RTL optimiser achieving 13.1% power reduction (SNR 29.89 dB, 100% formal verification).</td></tr>
+<tr><td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU"><b>Crypto3DStackCPU</b></a></td>
+<td>CryptoCPU extended with a secure 3D-stacked memory architecture on FPGA — encrypted instruction fetch with hardware-level memory protection.</td></tr>
 
 <tr><td><a href="https://github.com/gdtsitlauri/themis-search"><b>THEMIS</b></a></td>
 <td>Multimodal search engine — sparse IR, neural dense retrieval, typed Haskell query DSL, ORACLE causal reranker, multimedia forensics, and a formal computation theory module (DFA/NFA/TM/complexity).</td></tr>
@@ -131,8 +133,6 @@
 <tr><td><a href="https://github.com/gdtsitlauri/socrates-edutech"><b>SOCRATES</b></a></td>
 <td>Adaptive educational AI platform — DIALECTIC causal learning-path engine, Bayesian knowledge tracing, IRT, spaced repetition, and WebXR augmented reality quiz interface.</td></tr>
 
-<tr><td><a href="https://github.com/gdtsitlauri/Crypto3DStackCPU"><b>Crypto3DStackCPU</b></a></td>
-<td>CryptoCPU extended with a secure 3D-stacked memory architecture on FPGA — encrypted instruction fetch with hardware-level memory protection.</td></tr>
 
 </table>
 
@@ -178,8 +178,9 @@
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python, C, C++, Java, CUDA, Rust, Go, Haskell, Scala, Julia, R, Octave, Fortran, JavaScript, TypeScript, Swift, Kotlin, Dart, PHP, Ruby, Perl, Pascal, NASM, MIPS Assembly, SystemVerilog, VHDL, SQL, HTML5, CSS3, TeX |
-| **AI / ML** | PyTorch, TensorFlow, scikit-learn, Qiskit, Hugging Face, LangChain, FAISS, XGBoost, LightGBM, MuJoCo, PyBullet |
+| **AI / ML** | PyTorch, TensorFlow, scikit-learn, Qiskit, Hugging Face, LangChain, FAISS, XGBoost, LightGBM, MuJoCo, PyBullet, MLflow, Weights & Biases (W&B), TensorRT |
 | **Frameworks & Platforms** | FastAPI, React, Next.js, Node.js, Flutter, .NET 8, Tailwind CSS, Medusa.js, Docker, Kubernetes, Apache Spark, Apache Hadoop, WebXR, Three.js |
+| **Cloud Providers** | AWS (S3, EC2, CloudWatch), Google Cloud Platform (GCS, Vertex AI), Microsoft Azure (Blob Storage, Azure ML) |
 | **Dev & Research Tools** | Xilinx Vivado, Vitis HLS, Git, CMake, Jupyter, VS Code, Wireshark, VirtualBox, Figma, Shell/Bash, PowerShell, Flex, Bison, K9s |
 | **AI Coding Assistants** | Claude Code, OpenAI Codex, GitHub Copilot |
 | **Operating Systems** | Linux, Windows |
