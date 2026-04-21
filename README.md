@@ -10,12 +10,7 @@
 <img height="22" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%20%7C%20Compilers%20%7C%20System%20Security-16A34A?style=for-the-badge">
 </p>
 
-<p align="center">
-<img height="21" src="https://img.shields.io/badge/Cybersecurity-f97316?style=for-the-badge">
-<img height="21" src="https://img.shields.io/badge/AI%20%26%20ML-06b6d4?style=for-the-badge">
-<img height="21" src="https://img.shields.io/badge/Systems%20%26%20Hardware-0d9488?style=for-the-badge">
-<img height="21" src="https://img.shields.io/badge/Biomedical%20Computing-800020?style=for-the-badge">
-<img height="21" src="https://img.shields.io/badge/Quantum-ca8a04?style=for-the-badge">
+
 </p>
 
 <hr>
