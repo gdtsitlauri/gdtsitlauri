@@ -11,20 +11,6 @@
 </p>
 
 
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://gdtsitlauri.dev/">🌐 gdtsitlauri.dev</a> &nbsp;·&nbsp;
-  <a href="mailto:gdtsitlauri@gmail.com">✉ gdtsitlauri@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gdtsitlauri/">💼 LinkedIn</a>
-</p>
-
-<p align="center"><i>Independent research across AI, security, systems, hardware, biomedical computing, and theoretical CS — developed toward PhD-level research.</i></p>
-
-<hr>
-
 ## Research Portfolio
 
 <table width="100%">
