@@ -33,15 +33,15 @@
   <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-DC2626?style=for-the-badge" alt="Cybersecurity, Systems & Infrastructure">
 </p>
 
-- **[NEXUS-PLATFORM](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems platform spanning compiler construction, code generation, CPU simulation, parallel execution, and hardware validation.
+- **[NEXUS](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems platform spanning compiler construction, code generation, CPU simulation, parallel execution, and hardware validation.
 - **[LYKOMIDES](https://github.com/gdtsitlauri/lykomides-ids)** — Cross-domain AI intrusion-detection framework for cyber-physical and IoT environments with strong generalization focus.
 - **[CAESAR](https://github.com/gdtsitlauri/caesar-framework)** — Co-evolutionary cyber-security framework for adaptive attack simulation, defense learning, and strategy optimization.
-- **[OLYMPUS-SECURITY](https://github.com/gdtsitlauri/olympus-security)** — AI-native cyber offense/defense research platform for synthetic adversarial experimentation and attacker-defender studies.
+- **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — AI-native cyber offense/defense research platform for synthetic adversarial experimentation and attacker-defender studies.
 - **[APOLLO](https://github.com/gdtsitlauri/apollo-database)** — Java database-engine research project with indexing, transactions, storage logic, and benchmark-oriented systems evaluation.
 - **[ATLAS](https://github.com/gdtsitlauri/atlas-trident)** — Distributed cloud-autonomy framework combining digital twins, orchestration, governance, and intelligent control.
 - **[POLARIS](https://github.com/gdtsitlauri/polaris-sdn-orchestrator)** — SDN/cloud orchestration research platform for multi-objective service placement and network-aware optimization.
 - **[CHRONOS](https://github.com/gdtsitlauri/chronos-edge-iot)** — Edge-IoT scheduling and offloading framework using causal structures and intelligent multi-objective decision policies.
-- **[ARGUS-OS](https://github.com/gdtsitlauri/argus-os)** — Operating-systems and edge-AI runtime research focused on microkernel structure, fairness, and efficient communication.
+- **[ARGUS](https://github.com/gdtsitlauri/argus-os)** — Operating-systems and edge-AI runtime research focused on microkernel structure, fairness, and efficient communication.
 - **[CUDA-zkML](https://github.com/gdtsitlauri/cuda-zkml)** — GPU-accelerated zero-knowledge machine-learning system for verifiable neural-network inference.
 - **[ARTEMIS](https://github.com/gdtsitlauri/artemis-mobile)** — Mobile-systems and reliability research framework for telemetry, robustness, and application-level intelligent monitoring.
 
@@ -53,13 +53,13 @@
 
 - **[ODYSSEY](https://github.com/gdtsitlauri/odyssey-quantum)** — Hybrid quantum-classical security research platform for post-quantum reasoning and risk-aware intrusion analysis.
 - **[Crypto3DStackCPU](https://github.com/gdtsitlauri/Crypto3DStackCPU)** — Secure CPU extension with 3D-stacked memory concepts and hardware-oriented cryptographic protection mechanisms.
-- **[HEPHAESTUS-HDL](https://github.com/gdtsitlauri/hephaestus-mac-core)** — Hardware-design research on power-aware MAC architectures and RTL optimization for edge-AI workloads.
-- **[HERMES-SDR](https://github.com/gdtsitlauri/hermes-sdr)** — AI-native software-defined radio framework for intelligent transceiver and communication-system experimentation.
+- **[HEPHAESTUS](https://github.com/gdtsitlauri/hephaestus-mac-core)** — Hardware-design research on power-aware MAC architectures and RTL optimization for edge-AI workloads.
+- **[HERMES](https://github.com/gdtsitlauri/hermes-sdr)** — AI-native software-defined radio framework for intelligent transceiver and communication-system experimentation.
 - **[GATE-6G](https://github.com/gdtsitlauri/gate-6g)** — Semantic-communication and split-inference research framework for adaptive 6G-style AI-native transmission.
 - **[HELIOS](https://github.com/gdtsitlauri/helios-signal)** — Signal-processing research environment for intelligent optimization, analysis, and communication-oriented workflows.
-- **[IRIS-GRAPHICS](https://github.com/gdtsitlauri/iris-graphics)** — Neural rendering and graphics research framework for perception, visualization, and real-time rendering pipelines.
+- **[IRIS](https://github.com/gdtsitlauri/iris-graphics)** — Neural rendering and graphics research framework for perception, visualization, and real-time rendering pipelines.
 - **[ARES](https://github.com/gdtsitlauri/ares-robotics)** — Robotics autonomy research platform for control, planning, navigation, and coordination experiments.
-- **[DAEDALUS-EVO](https://github.com/gdtsitlauri/daedalus-gene)** — Evolutionary robotics and optimization framework for co-designing controllers, structures, and adaptive behaviors.
+- **[DAEDALUS](https://github.com/gdtsitlauri/daedalus-gene)** — Evolutionary robotics and optimization framework for co-designing controllers, structures, and adaptive behaviors.
 - **[KLADENETS](https://github.com/gdtsitlauri/kladenets-uav)** — Autonomous UAV-swarm research architecture with edge AI, resilience, and explainable decision-making concepts.
 - **[POSEIDON](https://github.com/gdtsitlauri/poseidon-ocean-systems)** — Multi-domain maritime, GIS, CAD, and optical-network research framework for simulation and optimization.
 
