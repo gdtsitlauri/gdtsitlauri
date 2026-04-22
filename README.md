@@ -12,7 +12,7 @@
 ## Research Portfolio
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%2C%20Data%20%26%20Intelligent%20Systems-FFFFFF?style=for-the-badge&logoColor=000" alt="AI, Data & Intelligent Systems">
+  <img height="30" src="https://img.shields.io/badge/Category-AI%2C%20Data%20%26%20Intelligent%20Systems-F59E42?style=for-the-badge&logoColor=000" alt="AI, Data & Intelligent Systems">
 </p>
 
 - **[ATHENA](https://github.com/gdtsitlauri/athena-biomedical)** — Precision-medicine and biomedical-informatics platform integrating genomics, records, knowledge graphs, and causal reasoning.
@@ -30,7 +30,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-FFFFFF?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
+  <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-10B981?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
 </p>
 
 - **[NEXUS](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems platform spanning compiler construction, code generation, CPU simulation, parallel execution, and hardware validation.
@@ -48,7 +48,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Hardware%2C%20Telecom%20%26%20Robotics-FFFFFF?style=for-the-badge&logoColor=000" alt="Hardware, Telecom & Robotics">
+  <img height="30" src="https://img.shields.io/badge/Category-Hardware%2C%20Telecom%20%26%20Robotics-EC4899?style=for-the-badge&logoColor=000" alt="Hardware, Telecom & Robotics">
 </p>
 
 - **[ODYSSEY](https://github.com/gdtsitlauri/odyssey-quantum)** — Hybrid quantum-classical security research platform for post-quantum reasoning and risk-aware intrusion analysis.
@@ -68,7 +68,7 @@
 ## Projects
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Engineering-FFFFFF?style=for-the-badge&logoColor=000" alt="Engineering">
+  <img height="30" src="https://img.shields.io/badge/Category-Engineering-FACC15?style=for-the-badge&logoColor=000" alt="Engineering">
 </p>
 
 - **[CryptoCPU](https://github.com/gdtsitlauri/CryptoCPU)** (**BSc Thesis**) — Design and implementation of an encrypted instruction-set processor on FPGA.
@@ -80,7 +80,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-FFFFFF?style=for-the-badge&logoColor=000" alt="AI / Data">
+  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-6366F1?style=for-the-badge&logoColor=000" alt="AI / Data">
 </p>
 
 - **[Advanced AI Projects](https://github.com/gdtsitlauri/advanced-ai-projects)** — Collection of advanced machine-learning and deep-learning projects across vision, generation, and optimization tasks.
@@ -94,7 +94,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Websites-FFFFFF?style=for-the-badge&logoColor=000" alt="Websites">
+  <img height="30" src="https://img.shields.io/badge/Category-Websites-F472B6?style=for-the-badge&logoColor=000" alt="Websites">
 </p>
 
 - **[Skyrianos](https://github.com/gdtsitlauri/Skyrianos)** — Website about the island of Skyros with public-facing content and visitor-oriented presentation.
@@ -107,61 +107,61 @@
 ## Skills
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming-FFFFFF?style=for-the-badge&logoColor=000" alt="Programming">
+  <img height="30" src="https://img.shields.io/badge/Skills-Programming-0EA5E9?style=for-the-badge&logoColor=000" alt="Programming">
 </p>
 
 **Python, C, C++, Java, C#, Scala, Rust, Go, JavaScript, TypeScript, SQL, Haskell, Julia, R, Octave, MATLAB, Fortran, Dart, Swift, Kotlin, PHP, Ruby, Perl, Pascal, Solidity, GLSL, MIPS Assembly, NASM, VHDL, SystemVerilog, HTML5, CSS3, LaTeX**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-FFFFFF?style=for-the-badge&logoColor=000" alt="AI / Data">
+  <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-22D3EE?style=for-the-badge&logoColor=000" alt="AI / Data">
 </p>
 
 **PyTorch, TensorFlow, scikit-learn, XGBoost, Qiskit, Apache Spark, Apache Hadoop, reinforcement learning, anomaly detection, explainability, retrieval systems, LLM workflows, statistical modeling, time-series analysis, econometrics**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-FFFFFF?style=for-the-badge&logoColor=000" alt="Systems / Software">
+  <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-16A34A?style=for-the-badge&logoColor=000" alt="Systems / Software">
 </p>
 
 **FastAPI, Flutter, Streamlit, Docker, Kubernetes, REST APIs, distributed systems, compiler/toolchain design, benchmarking pipelines, simulation frameworks, database systems, query optimization, indexing, database-engine internals**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-FFFFFF?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
+  <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-F43F5E?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
 </p>
 
 **MLflow, Weights & Biases, AWS Lambda, AWS SageMaker, Azure Functions, Azure Blob Storage, Azure ML, GCP BigQuery, Google Cloud Storage, Cloud Functions**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-FFFFFF?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
+  <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-E11D48?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
 </p>
 
 **CUDA, CUDA optimization, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, GPU computing, parallel programming, high-performance computing (HPC), hardware-aware inference**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-FFFFFF?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
+  <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-8B5CF6?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
 </p>
 
 **SDR pipelines, semantic communications, digital signal processing (DSP), network protocols, distributed networking fundamentals**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-FFFFFF?style=for-the-badge&logoColor=000" alt="Graphics / XR">
+  <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-CA8A04?style=for-the-badge&logoColor=000" alt="Graphics / XR">
 </p>
 
 **Neural rendering, graphics benchmarking, WebXR, Three.js**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-FFFFFF?style=for-the-badge&logoColor=000" alt="Web / Frontend">
+  <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-0D9488?style=for-the-badge&logoColor=000" alt="Web / Frontend">
 </p>
 
 **React, Next.js, Node.js, Tailwind CSS, HTML5, CSS3**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-FFFFFF?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
+  <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-DC2626?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
 </p>
 
 **Git, CMake, pytest, Jupyter, Wireshark, PowerShell, Bash, Linux, Windows, VS Code, Visual Studio, Flex, Bison, LaTeX, Docker CLI, Kubernetes CLI (kubectl), K9s**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Languages-Greek%20(Native)%20%E2%80%A2%20Russian%20(Native)%20%E2%80%A2%20English%20(B2)-FFFFFF?style=for-the-badge&logoColor=000" alt="Languages">
+  <img height="30" src="https://img.shields.io/badge/Languages-Greek%20(Native)%20%E2%80%A2%20Russian%20(Native)%20%E2%80%A2%20English%20(B2)-FBBF24?style=for-the-badge&logoColor=000" alt="Languages">
 </p>
 
 ---
