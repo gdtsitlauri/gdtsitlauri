@@ -1,19 +1,32 @@
 # George David Tsitlauri
+**AI & Systems Research Engineer**
 
-<p align="left" style="margin-bottom:0">
-  <img height="30" src="https://img.shields.io/badge/BSc-Informatics%20%26%20Telecommunications-DC2626?style=for-the-badge" alt="BSc"><br>
-  <img height="30" src="https://img.shields.io/badge/Specialization-Data%20Management%20%26%20AI-0F766E?style=for-the-badge" alt="Specialization"><br>
-  <img height="30" src="https://img.shields.io/badge/University-University%20of%20Thessaly-1D4ED8?style=for-the-badge" alt="University">
-  <img height="30" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%2C%20Compilers%20%26%20System%20Security-7C3AED?style=for-the-badge" alt="Research Lab">
-</p>
+Lamia, Greece  
+[Website](https://gdtsitlauri.dev) • [Email](mailto:gdtsitlauri@gmail.com) • [GitHub](https://github.com/gdtsitlauri) • [LinkedIn](https://www.linkedin.com/in/gdtsitlauri/)
 
----
+## Profile
+
+Research engineer working at the intersection of artificial intelligence, systems, and computing infrastructure. My portfolio spans machine learning, cybersecurity, operating systems, databases, compilers, telecom, graphics, robotics, and hardware-aware computing, with emphasis on repository-scale implementations backed by papers, benchmarks, and reproducible artifacts.
+
+## Education
+
+- **BSc in Informatics & Telecommunications**, University of Thessaly, Greece `(2021-2026)`
+- **Specialization:** Data Management and Artificial Intelligence
+- **Research Laboratory:** Computer Architecture, Compilers and System Security
+
+## Research Interests
+
+- AI systems and trustworthy machine learning
+- Cybersecurity, systems, and infrastructure
+- Compilers, databases, and operating systems
+- Computer architecture, hardware-aware ML, and FPGA/RTL workflows
+- Telecom, signal processing, graphics, and robotics
 
 ## Research Portfolio
 
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%2C%20Data%20%26%20Intelligent%20Systems-F59E42?style=for-the-badge&logoColor=000" alt="AI, Data & Intelligent Systems">
-</p>
+All GitHub repository links below were verified on **April 23, 2026**.
+
+### AI, Data & Intelligent Systems
 
 - **[ATHENA](https://github.com/gdtsitlauri/athena-biomedical)** — Precision-medicine and biomedical-informatics platform integrating genomics, records, knowledge graphs, and causal reasoning.
 - **[ASCLEPIUS](https://github.com/gdtsitlauri/asclepius-biosignal)** — Biomedical AI framework for biosignal intelligence, anomaly detection, explainability, and federated-health experimentation.
@@ -27,11 +40,7 @@
 - **[SIREN](https://github.com/gdtsitlauri/siren-audio)** — Adversarial-audio and voice-forensics research framework for spoofing, deepfake, and audio-security analysis.
 - **[VALKYRIE](https://github.com/gdtsitlauri/valkyrie-enhance)** — Real-time AI-powered video and audio enhancement framework optimized for consumer GPUs.
 
----
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-10B981?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
-</p>
+### Cybersecurity, Systems & Infrastructure
 
 - **[NEXUS](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems platform spanning compiler construction, code generation, CPU simulation, parallel execution, and hardware validation.
 - **[LYKOMIDES](https://github.com/gdtsitlauri/lykomides-ids)** — Cross-domain AI intrusion-detection framework for cyber-physical and IoT environments with strong generalization focus.
@@ -45,11 +54,7 @@
 - **[CUDA-zkML](https://github.com/gdtsitlauri/cuda-zkml)** — GPU-accelerated zero-knowledge machine-learning system for verifiable neural-network inference.
 - **[ARTEMIS](https://github.com/gdtsitlauri/artemis-mobile)** — Mobile-systems and reliability research framework for telemetry, robustness, and application-level intelligent monitoring.
 
----
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Hardware%2C%20Telecom%20%26%20Robotics-EC4899?style=for-the-badge&logoColor=000" alt="Hardware, Telecom & Robotics">
-</p>
+### Hardware, Telecom & Robotics
 
 - **[ODYSSEY](https://github.com/gdtsitlauri/odyssey-quantum)** — Hybrid quantum-classical security research platform for post-quantum reasoning and risk-aware intrusion analysis.
 - **[Crypto3DStackCPU](https://github.com/gdtsitlauri/Crypto3DStackCPU)** — Secure CPU extension with 3D-stacked memory concepts and hardware-oriented cryptographic protection mechanisms.
@@ -63,105 +68,30 @@
 - **[KLADENETS](https://github.com/gdtsitlauri/kladenets-uav)** — Autonomous UAV-swarm research architecture with edge AI, resilience, and explainable decision-making concepts.
 - **[POSEIDON](https://github.com/gdtsitlauri/poseidon-ocean-systems)** — Multi-domain maritime, GIS, CAD, and optical-network research framework for simulation and optimization.
 
----
-
-## Projects
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Engineering-FACC15?style=for-the-badge&logoColor=000" alt="Engineering">
-</p>
+## Selected Engineering Projects
 
 - **[CryptoCPU](https://github.com/gdtsitlauri/CryptoCPU)** (**BSc Thesis**) — Design and implementation of an encrypted instruction-set processor on FPGA.
 - **[Parallel AES CUDA](https://github.com/gdtsitlauri/parallel-aes-cuda)** — Parallel implementation of AES encryption and decryption on NVIDIA GPUs.
 - **[Build a Compiler](https://github.com/gdtsitlauri/build-a-compiler)** — Compiler project with frontend parsing, AST construction, semantic handling, and MIPS-oriented code generation.
-- **[CCC IR Optimizer](https://github.com/gdtsitlauri/ccc-ir-optimizer)** — IR optimizer for the CCC front-end translator with compiler optimization passes and analysis logic.
-- **[GPBFT Consensus Protocol](https://github.com/gdtsitlauri/gpbft-consensus-protocol)** — Implementation of a distributed-systems consensus protocol inspired by Byzantine-style agreement and signature-based coordination.
-
----
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-6366F1?style=for-the-badge&logoColor=000" alt="AI / Data">
-</p>
-
-- **[Advanced AI Projects](https://github.com/gdtsitlauri/advanced-ai-projects)** — Collection of advanced machine-learning and deep-learning projects across vision, generation, and optimization tasks.
-- **[Big Data Spark Taxi](https://github.com/gdtsitlauri/big-data-spark-taxi)** — Big-data analysis pipeline for taxi-trip datasets using distributed processing and large-scale analytics.
+- **[CCC IR Optimizer](https://github.com/gdtsitlauri/ccc-ir-optimizer)** — IR optimizer with compiler optimization passes and analysis logic.
+- **[GPBFT Consensus Protocol](https://github.com/gdtsitlauri/gpbft-consensus-protocol)** — Distributed-systems consensus protocol inspired by Byzantine-style agreement and signature-based coordination.
+- **[Advanced AI Projects](https://github.com/gdtsitlauri/advanced-ai-projects)** — Collection of advanced ML and deep-learning projects across vision, generation, and optimization tasks.
+- **[Big Data Spark Taxi](https://github.com/gdtsitlauri/big-data-spark-taxi)** — Distributed analytics pipeline for taxi-trip datasets at larger scale.
 - **[Video Coding for Machines](https://github.com/gdtsitlauri/video-coding-for-machines)** — Video-coding techniques optimized for machine-learning and machine-vision applications.
-- **[Reinforcement Learning Experiments](https://github.com/gdtsitlauri/reinforcement-learning-experiments)** — Experiments and implementations focused on reinforcement-learning algorithms and environments.
-- **[Tourism Data Mining](https://github.com/gdtsitlauri/tourism-data-mining)** — Data-mining and analysis workflows for tourism-related datasets and pattern discovery.
-- **[Weather App Autoscaler](https://github.com/gdtsitlauri/weather-app-autoscaler-k8s)** — Scalable weather application with auto-scaling based on runtime load and weather-aware deployment logic.
-- **[Egram Student Management System](https://github.com/gdtsitlauri/egram-student-management-system)** — Student-management system for institutional administration, records, and academic workflow handling.
+- **[Reinforcement Learning Experiments](https://github.com/gdtsitlauri/reinforcement-learning-experiments)** — Implementations and experiments focused on reinforcement-learning algorithms and environments.
 
----
+## Technical Skills
 
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Websites-F472B6?style=for-the-badge&logoColor=000" alt="Websites">
-</p>
+- **Programming Languages:** Python, C, C++, Java, Rust, Go, JavaScript, TypeScript, SQL, Haskell, Scala, Julia, R, MATLAB, Octave, Dart, Swift, Kotlin, VHDL, SystemVerilog, MIPS Assembly, NASM, LaTeX
+- **AI / Data / ML:** PyTorch, TensorFlow, scikit-learn, XGBoost, Apache Spark, Apache Hadoop, reinforcement learning, anomaly detection, explainability, retrieval systems, LLM workflows, statistical modeling, time-series analysis, econometrics
+- **Systems / Infrastructure:** FastAPI, Docker, Kubernetes, REST APIs, distributed systems, compiler/toolchain design, benchmarking pipelines, simulation frameworks, database internals, query optimization, indexing
+- **Cloud / MLOps:** MLflow, Weights & Biases, AWS Lambda, AWS SageMaker, Azure Functions, Azure Blob Storage, Azure ML, GCP BigQuery, Google Cloud Storage, Cloud Functions
+- **Hardware / Parallel / Telecom:** CUDA, TensorRT, OpenMP, MPI, Vivado, Vitis HLS, FPGA/RTL workflows, GPU computing, high-performance computing, DSP, SDR pipelines, semantic communications
+- **Web / Frontend:** React, Next.js, Node.js, Flutter, Tailwind CSS, HTML, CSS, WebXR, Three.js
+- **Research / Developer Tools:** Git, Linux, Bash, PowerShell, CMake, pytest, Jupyter, Wireshark, VS Code, Visual Studio, Flex, Bison, kubectl, K9s
 
-- **[Skyrianos](https://github.com/gdtsitlauri/Skyrianos)** — Website about the island of Skyros with public-facing content and visitor-oriented presentation.
-- **[OstrichZooPark](https://github.com/gdtsitlauri/ostrichzoopark)** — Website for Ostrich Zoo Park with basic details, visitor information, and web presentation.
-- **[gdtsitlauri.github.io](https://github.com/gdtsitlauri/gdtsitlauri.github.io)** — Personal website and portfolio presence for profile, work, and public presentation.
-- **Pavlidi Home E-shop** — E-commerce platform for online product presentation, storefront workflow, and customer-facing shopping functionality.
+## Languages
 
----
-
-## Skills
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming-0EA5E9?style=for-the-badge&logoColor=000" alt="Programming">
-</p>
-
-**Python, C, C++, Java, C#, Scala, Rust, Go, JavaScript, TypeScript, SQL, Haskell, Julia, R, Octave, MATLAB, Fortran, Dart, Swift, Kotlin, PHP, Ruby, Perl, Pascal, Solidity, GLSL, MIPS Assembly, NASM, VHDL, SystemVerilog, HTML5, CSS3, LaTeX**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-22D3EE?style=for-the-badge&logoColor=000" alt="AI / Data">
-</p>
-
-**PyTorch, TensorFlow, scikit-learn, XGBoost, Qiskit, Apache Spark, Apache Hadoop, reinforcement learning, anomaly detection, explainability, retrieval systems, LLM workflows, statistical modeling, time-series analysis, econometrics**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-16A34A?style=for-the-badge&logoColor=000" alt="Systems / Software">
-</p>
-
-**FastAPI, Flutter, Streamlit, Docker, Kubernetes, REST APIs, distributed systems, compiler/toolchain design, benchmarking pipelines, simulation frameworks, database systems, query optimization, indexing, database-engine internals**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-F43F5E?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
-</p>
-
-**MLflow, Weights & Biases, AWS Lambda, AWS SageMaker, Azure Functions, Azure Blob Storage, Azure ML, GCP BigQuery, Google Cloud Storage, Cloud Functions**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-E11D48?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
-</p>
-
-**CUDA, CUDA optimization, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, GPU computing, parallel programming, high-performance computing (HPC), hardware-aware inference**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-8B5CF6?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
-</p>
-
-**SDR pipelines, semantic communications, digital signal processing (DSP), network protocols, distributed networking fundamentals**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-CA8A04?style=for-the-badge&logoColor=000" alt="Graphics / XR">
-</p>
-
-**Neural rendering, graphics benchmarking, WebXR, Three.js**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-0D9488?style=for-the-badge&logoColor=000" alt="Web / Frontend">
-</p>
-
-**React, Next.js, Node.js, Tailwind CSS, HTML5, CSS3**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-DC2626?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
-</p>
-
-**Git, CMake, pytest, Jupyter, Wireshark, PowerShell, Bash, Linux, Windows, VS Code, Visual Studio, Flex, Bison, LaTeX, Docker CLI, Kubernetes CLI (kubectl), K9s**
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Languages-Greek%20(Native)%20%E2%80%A2%20Russian%20(Native)%20%E2%80%A2%20English%20(B2)-FBBF24?style=for-the-badge&logoColor=000" alt="Languages">
-</p>
-
----
+- **Greek:** Native
+- **Russian:** Native
+- **English:** B2 `(ECCE, University of Michigan)`
