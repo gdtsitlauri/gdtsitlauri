@@ -1,34 +1,11 @@
 # George David Tsitlauri
 
 <p align="left">
-  <a href="https://gdtsitlauri.dev/"><img height="30" src="https://img.shields.io/badge/Website-gdtsitlauri.dev-111111?style=for-the-badge" alt="Website"></a>
-  <a href="mailto:gdtsitlauri@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-gdtsitlauri%40gmail.com-111111?style=for-the-badge" alt="Email"></a>
-  <a href="https://github.com/gdtsitlauri"><img height="30" src="https://img.shields.io/badge/GitHub-gdtsitlauri-111111?style=for-the-badge" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/gdtsitlauri/"><img height="30" src="https://img.shields.io/badge/LinkedIn-gdtsitlauri-111111?style=for-the-badge" alt="LinkedIn"></a>
-</p>
-
-<p align="left">
   <img height="30" src="https://img.shields.io/badge/BSc-Informatics%20%26%20Telecommunications-DC2626?style=for-the-badge" alt="BSc">
   <img height="30" src="https://img.shields.io/badge/Specialization-Data%20Management%20%26%20AI-0F766E?style=for-the-badge" alt="Specialization">
   <img height="30" src="https://img.shields.io/badge/University-University%20of%20Thessaly-1D4ED8?style=for-the-badge" alt="University">
   <img height="30" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%2C%20Compilers%20%26%20System%20Security-7C3AED?style=for-the-badge" alt="Research Lab">
 </p>
-
----
-
-## Profile
-
-Undergraduate student in **Informatics & Telecommunications** at the **University of Thessaly, Greece (2021–2026)**, specializing in **Data Management and Artificial Intelligence**.
-
-Member of the **Computer Architecture, Compilers and System Security** research laboratory.
-
-My work spans:
-- Artificial Intelligence and Intelligent Systems
-- Data Science and Biomedical Informatics
-- Cybersecurity and Systems Research
-- Cloud, Edge, and Distributed Infrastructure
-- Hardware, Telecom, and Robotics
-- Compiler Construction and Parallel Computing
 
 ---
 
@@ -186,14 +163,5 @@ My work spans:
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Languages-Greek%20(Native)%20%E2%80%A2%20Russian%20(Native)%20%E2%80%A2%20English%20(B2)-065F46?style=for-the-badge" alt="Languages">
 </p>
-
----
-
-## Contact
-
-- Website: [gdtsitlauri.dev](https://gdtsitlauri.dev/)
-- Email: [gdtsitlauri@gmail.com](mailto:gdtsitlauri@gmail.com)
-- GitHub: [github.com/gdtsitlauri](https://github.com/gdtsitlauri)
-- LinkedIn: [linkedin.com/in/gdtsitlauri](https://www.linkedin.com/in/gdtsitlauri/)
 
 ---
