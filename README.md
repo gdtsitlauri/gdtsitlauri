@@ -33,13 +33,14 @@
   <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-06B6D4?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
 </p>
 
-- **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — Unified AI security research platform integrating offensive, defensive, and co-evolutionary modules for end-to-end cyber experimentation.
-- **[CAESAR](https://github.com/gdtsitlauri/caesar-framework)** — Co-evolutionary simulation engine where attacker and defender agents adapt against each other to stress-test intrusion detection strategies.
+- **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — AI security research platform covering offensive, defensive, forensic, and intelligence modules — with co-evolutionary attacker/defender simulation, reverse engineering, and malware analysis.
+- **[CAESAR](https://github.com/gdtsitlauri/caesar-framework)** — Standalone co-evolutionary engine for adversarial strategy search, where attacker and defender populations evolve independently to discover non-obvious attack/defense equilibria.
 - **[LYKOMIDES](https://github.com/gdtsitlauri/lykomides-ids)** — Cross-domain AI intrusion-detection framework designed to transfer across cyber-physical and IoT environments without retraining on target data.
 - **[CUDA-zkML](https://github.com/gdtsitlauri/cuda-zkml)** — GPU-accelerated zero-knowledge machine-learning system for verifiable neural-network inference.
 - **[ATLAS](https://github.com/gdtsitlauri/atlas-trident)** — Distributed cloud-autonomy framework combining digital twins, orchestration, governance, and intelligent control.
 - **[NEXUS](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems research platform spanning compiler construction, MIPS code generation, CPU simulation, parallel execution, and hardware validation.
 - **[APOLLO](https://github.com/gdtsitlauri/apollo-database)** — From-scratch Java database-engine research project covering storage, B+-tree indexing, MVCC transactions, and an ML-learned query optimizer.
+- **[PYTHAGORAS](https://github.com/gdtsitlauri/pythagoras-theory)** — Unified computational theory and discrete mathematics research framework covering the full Chomsky hierarchy, Turing machines, NP-completeness, and decidability, with the LOGOS formal verifier.
 - **[POLARIS](https://github.com/gdtsitlauri/polaris-sdn-orchestrator)** — SDN/cloud orchestration research platform for multi-objective service placement and network-aware optimization.
 - **[CHRONOS](https://github.com/gdtsitlauri/chronos-edge-iot)** — Edge-IoT scheduling and offloading research framework using causal structures and multi-objective decision policies.
 - **[ARGUS](https://github.com/gdtsitlauri/argus-os)** — Game-theoretic distributed microkernel research with Nash-equilibrium scheduling and lock-free IPC for edge-AI workloads.
@@ -80,7 +81,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-10B981?style=for-the-badge&logoColor=000" alt="AI / Data">
+  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data%20Implementations-10B981?style=for-the-badge&logoColor=000" alt="AI / Data Implementations">
 </p>
 
 - **[Advanced AI Projects](https://github.com/gdtsitlauri/advanced-ai-projects)** — Collection of advanced machine-learning and deep-learning implementations across vision, generation, and optimization tasks.
