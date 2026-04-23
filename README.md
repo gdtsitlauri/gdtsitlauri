@@ -3,7 +3,7 @@
 <p align="left" style="margin-bottom:0">
   <img height="30" src="https://img.shields.io/badge/BSc-Informatics%20%26%20Telecommunications-DC2626?style=for-the-badge" alt="BSc"><br>
   <img height="30" src="https://img.shields.io/badge/Specialization-Data%20Management%20%26%20AI-0F766E?style=for-the-badge" alt="Specialization"><br>
-  <img height="30" src="https://img.shields.io/badge/University-University%20of%20Thessaly-1D4ED8?style=for-the-badge" alt="University">
+  <img height="30" src="https://img.shields.io/badge/University-University%20of%20Thessaly-1D4ED8?style=for-the-badge" alt="University"><br>
   <img height="30" src="https://img.shields.io/badge/Research%20Lab-Computer%20Architecture%2C%20Compilers%20%26%20System%20Security-7C3AED?style=for-the-badge" alt="Research Lab">
 </p>
 
@@ -15,15 +15,15 @@
   <img height="30" src="https://img.shields.io/badge/Category-AI%2C%20Data%20%26%20Intelligent%20Systems-F59E42?style=for-the-badge&logoColor=000" alt="AI, Data & Intelligent Systems">
 </p>
 
-- **[KRONOS](https://github.com/gdtsitlauri/kronos-algorithm)** — Causal domain-generalization framework for learning stable representations that transfer across domains.
+- **[KRONOS](https://github.com/gdtsitlauri/kronos-algorithm)** — Causal domain-invariant learning algorithm that enables AI models to generalize reliably across unseen domains and conditions.
 - **[NOUS](https://github.com/gdtsitlauri/nous-llm)** — Self-improving LLM research framework for iterative refinement, reasoning loops, and resource-constrained experimentation.
 - **[VALKYRIE](https://github.com/gdtsitlauri/valkyrie-enhance)** — Real-time video and audio enhancement framework optimized for consumer GPUs.
-- **[PATV-X](https://github.com/gdtsitlauri/patv-x)** — Explainable deepfake-video detection framework using frequency-domain analysis and forensic signal cues.
+- **[PATV-X](https://github.com/gdtsitlauri/patv-x)** — Training-free explainable deepfake-video detection framework using frequency-domain analysis and forensic signal cues.
 - **[SIREN](https://github.com/gdtsitlauri/siren-audio)** — Adversarial-audio and voice-forensics framework for spoofing analysis, deepfake detection, and audio-security evaluation.
 - **[ATHENA](https://github.com/gdtsitlauri/athena-biomedical)** — Precision-medicine and biomedical-informatics framework integrating genomics, health records, biomedical knowledge graphs, and causal reasoning.
 - **[ASCLEPIUS](https://github.com/gdtsitlauri/asclepius-biosignal)** — Biomedical AI framework for multimodal biosignal analysis, anomaly detection, explainability, and federated-health experimentation.
-- **[SOCRATES](https://github.com/gdtsitlauri/socrates-edutech)** — Adaptive education research framework for causal tutoring, learning analytics, backend/mobile integration, and WebXR experiences.
-- **[THEMIS](https://github.com/gdtsitlauri/themis-search)** — Hybrid retrieval, query semantics, multimedia forensics, and causal reranking framework.
+- **[SOCRATES](https://github.com/gdtsitlauri/socrates-edutech)** — Adaptive education research framework that models why learners struggle and dynamically adjusts learning paths using causal tutoring algorithms.
+- **[THEMIS](https://github.com/gdtsitlauri/themis-search)** — Hybrid search framework combining classical and neural retrieval with causal reranking to improve result relevance across text and multimedia queries.
 - **[MarketMindAI](https://github.com/gdtsitlauri/marketmind-ai)** — Behavioral-finance research framework linking internet sentiment and NLP signals to cryptocurrency market dynamics.
 - **[EVOO](https://github.com/gdtsitlauri/evoo-adulteration-ai)** — Applied machine-learning framework for olive-oil authenticity and adulteration analysis with spectroscopy data.
 
@@ -33,17 +33,17 @@
   <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-10B981?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
 </p>
 
-- **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — Synthetic cyber offense/defense research platform for adversarial experimentation and attacker-defender studies.
-- **[CAESAR](https://github.com/gdtsitlauri/caesar-framework)** — Co-evolutionary cybersecurity framework for adaptive attack simulation, defense learning, and strategy optimization.
-- **[LYKOMIDES](https://github.com/gdtsitlauri/lykomides-ids)** — Cross-domain AI intrusion-detection framework for cyber-physical and IoT environments with strong generalization focus.
+- **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — Unified AI security research platform integrating offensive, defensive, and co-evolutionary modules for end-to-end cyber experimentation.
+- **[CAESAR](https://github.com/gdtsitlauri/caesar-framework)** — Co-evolutionary simulation engine where attacker and defender agents adapt against each other to stress-test intrusion detection strategies.
+- **[LYKOMIDES](https://github.com/gdtsitlauri/lykomides-ids)** — Cross-domain AI intrusion-detection framework designed to transfer across cyber-physical and IoT environments without retraining on target data.
 - **[CUDA-zkML](https://github.com/gdtsitlauri/cuda-zkml)** — GPU-accelerated zero-knowledge machine-learning system for verifiable neural-network inference.
 - **[ATLAS](https://github.com/gdtsitlauri/atlas-trident)** — Distributed cloud-autonomy framework combining digital twins, orchestration, governance, and intelligent control.
 - **[NEXUS](https://github.com/gdtsitlauri/nexus-platform)** — End-to-end systems research platform spanning compiler construction, MIPS code generation, CPU simulation, parallel execution, and hardware validation.
-- **[APOLLO](https://github.com/gdtsitlauri/apollo-database)** — From-scratch Java database-engine research project covering storage, indexing, transactions, and benchmark-oriented evaluation.
+- **[APOLLO](https://github.com/gdtsitlauri/apollo-database)** — From-scratch Java database-engine research project covering storage, B+-tree indexing, MVCC transactions, and an ML-learned query optimizer.
 - **[POLARIS](https://github.com/gdtsitlauri/polaris-sdn-orchestrator)** — SDN/cloud orchestration research platform for multi-objective service placement and network-aware optimization.
 - **[CHRONOS](https://github.com/gdtsitlauri/chronos-edge-iot)** — Edge-IoT scheduling and offloading research framework using causal structures and multi-objective decision policies.
-- **[ARGUS](https://github.com/gdtsitlauri/argus-os)** — Operating-systems and edge-AI runtime research focused on microkernel structure, fairness, and efficient communication.
-- **[ARTEMIS](https://github.com/gdtsitlauri/artemis-mobile)** — Mobile-systems and reliability research framework for telemetry, robustness, and intelligent application monitoring.
+- **[ARGUS](https://github.com/gdtsitlauri/argus-os)** — Game-theoretic distributed microkernel research with Nash-equilibrium scheduling and lock-free IPC for edge-AI workloads.
+- **[ARTEMIS](https://github.com/gdtsitlauri/artemis-mobile)** — Mobile reliability research framework for proactive fault detection and SLO monitoring that identifies service degradation before users are affected.
 
 ---
 
@@ -52,16 +52,16 @@
 </p>
 
 - **[ODYSSEY](https://github.com/gdtsitlauri/odyssey-quantum)** — Hybrid quantum-classical security research platform for post-quantum reasoning and risk-aware intrusion analysis.
-- **[Crypto3DStackCPU](https://github.com/gdtsitlauri/Crypto3DStackCPU)** — Secure CPU-extension research project combining 3D-stacked-memory ideas with hardware-oriented cryptographic protection.
+- **[Crypto3DStackCPU](https://github.com/gdtsitlauri/Crypto3DStackCPU)** — Secure CPU-extension research project combining 3D-stacked memory with hardware cryptographic extensions, custom assembler, and runtime integrity validation.
 - **[DAEDALUS](https://github.com/gdtsitlauri/daedalus-gene)** — Evolutionary robotics and optimization framework for co-designing morphology, controllers, and adaptive behaviors.
-- **[HERMES](https://github.com/gdtsitlauri/hermes-sdr)** — AI-native software-defined radio framework for intelligent transceiver and communication experiments.
+- **[HERMES](https://github.com/gdtsitlauri/hermes-sdr)** — AI-native software-defined radio framework for learned modulation, channel adaptation, and intelligent signal processing.
 - **[GATE-6G](https://github.com/gdtsitlauri/gate-6g)** — Semantic-communication and split-inference research framework for adaptive 6G-style AI-native transmission.
-- **[HELIOS](https://github.com/gdtsitlauri/helios-signal)** — Signal-processing and optimization framework for communications-oriented intelligent workflows.
-- **[IRIS](https://github.com/gdtsitlauri/iris-graphics)** — Neural rendering and graphics research framework for perception, visualization, and real-time rendering.
+- **[HELIOS](https://github.com/gdtsitlauri/helios-signal)** — Multi-language signal-processing framework (Python, Julia, R, Octave) covering arithmetic coding, rate-distortion theory, and Markov-channel modeling.
+- **[IRIS](https://github.com/gdtsitlauri/iris-graphics)** — Neural rendering research framework for real-time perception and visualization on consumer GPUs.
 - **[ARES](https://github.com/gdtsitlauri/ares-robotics)** — Robotics autonomy research platform for control, planning, navigation, and multi-agent coordination experiments.
 - **[KLADENETS](https://github.com/gdtsitlauri/kladenets-uav)** — Autonomous UAV-swarm research architecture centered on edge AI, resilience, and explainable decision-making.
 - **[POSEIDON](https://github.com/gdtsitlauri/poseidon-ocean-systems)** — Multi-domain maritime systems research framework combining GIS, CAD, optical networks, and TRIDENT optimization.
-- **[HEPHAESTUS](https://github.com/gdtsitlauri/hephaestus-mac-core)** — RTL and physical-design research on power-aware MAC architectures for edge-AI workloads.
+- **[HEPHAESTUS](https://github.com/gdtsitlauri/hephaestus-mac-core)** — RTL and physical-design research on power-aware INT8 MAC architectures for edge-AI workloads, with measured power reduction via the CYCLOPS algorithm (SkyWater-130nm).
 
 ---
 
