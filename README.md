@@ -30,7 +30,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-10B981?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
+  <img height="30" src="https://img.shields.io/badge/Category-Cybersecurity%2C%20Systems%20%26%20Infrastructure-06B6D4?style=for-the-badge&logoColor=000" alt="Cybersecurity, Systems & Infrastructure">
 </p>
 
 - **[OLYMPUS](https://github.com/gdtsitlauri/olympus-security)** — Unified AI security research platform integrating offensive, defensive, and co-evolutionary modules for end-to-end cyber experimentation.
@@ -80,7 +80,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-6366F1?style=for-the-badge&logoColor=000" alt="AI / Data">
+  <img height="30" src="https://img.shields.io/badge/Category-AI%20%2F%20Data-10B981?style=for-the-badge&logoColor=000" alt="AI / Data">
 </p>
 
 - **[Advanced AI Projects](https://github.com/gdtsitlauri/advanced-ai-projects)** — Collection of advanced machine-learning and deep-learning implementations across vision, generation, and optimization tasks.
@@ -94,7 +94,7 @@
 ---
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Category-Websites-FB7185?style=for-the-badge&logoColor=000" alt="Websites">
+  <img height="30" src="https://img.shields.io/badge/Category-Websites-D946EF?style=for-the-badge&logoColor=000" alt="Websites">
 </p>
 
 - **[Skyrianos](https://github.com/gdtsitlauri/Skyrianos)** — Public-facing website about the island of Skyros with informational content and visitor-oriented presentation.
@@ -106,37 +106,37 @@
 ## Skills
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Primary)-0EA5E9?style=for-the-badge&logoColor=000" alt="Programming (Primary)">
+  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Primary)-3B82F6?style=for-the-badge&logoColor=000" alt="Programming (Primary)">
 </p>
 
 **Python, C, C++, Java, SQL, JavaScript, TypeScript, Assembly**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Secondary)-2DD4BF?style=for-the-badge&logoColor=000" alt="Programming (Secondary)">
+  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Secondary)-14B8A6?style=for-the-badge&logoColor=000" alt="Programming (Secondary)">
 </p>
 
 **Go, Rust, Haskell, Dart, VHDL, Verilog, C#, Scala, Julia, R, MATLAB, Octave, Kotlin, Swift, Solidity, GLSL, Fortran, PHP, Ruby, Perl, Pascal**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-A78BFA?style=for-the-badge&logoColor=000" alt="AI / Data">
+  <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-A855F7?style=for-the-badge&logoColor=000" alt="AI / Data">
 </p>
 
 **PyTorch, TensorFlow, scikit-learn, XGBoost, Apache Spark, Apache Hadoop, reinforcement learning, anomaly detection, explainability, retrieval systems, LLM workflows, statistical modeling, time-series analysis**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-4ADE80?style=for-the-badge&logoColor=000" alt="Systems / Software">
+  <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-22C55E?style=for-the-badge&logoColor=000" alt="Systems / Software">
 </p>
 
 **FastAPI, Flutter, Streamlit, Docker, Kubernetes, PostgreSQL, distributed systems, compiler/toolchain design, benchmarking pipelines, simulation frameworks, query optimization, indexing, database-engine internals**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-FB923C?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
+  <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-F97316?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
 </p>
 
 **MLflow, Weights & Biases, AWS Lambda, AWS SageMaker, Azure Functions, Azure Blob Storage, Azure ML, GCP BigQuery, Google Cloud Storage, Cloud Functions**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-F87171?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
+  <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-EF4444?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
 </p>
 
 **CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC), hardware-aware inference**
@@ -154,13 +154,13 @@
 **Neural rendering, WebXR, Three.js**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-818CF8?style=for-the-badge&logoColor=000" alt="Web / Frontend">
+  <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-0EA5E9?style=for-the-badge&logoColor=000" alt="Web / Frontend">
 </p>
 
 **React, Next.js, Node.js, Tailwind CSS, HTML5, CSS3**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-34D399?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
+  <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-FCA5A5?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
 </p>
 
 **Git, CI/CD, CMake, pytest, Jupyter, Wireshark, Bash, PowerShell, Linux, Windows, Visual Studio, LaTeX**
