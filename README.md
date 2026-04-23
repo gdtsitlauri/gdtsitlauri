@@ -138,18 +138,6 @@
 **CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC)**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Security-E11D48?style=for-the-badge&logoColor=fff" alt="Security">
-</p>
-
-
-
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-84CC16?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
-</p>
-
-
-
-<p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-64748B?style=for-the-badge&logoColor=fff" alt="Graphics / XR">
 </p>
 
