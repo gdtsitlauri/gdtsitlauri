@@ -135,7 +135,7 @@
   <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-EF4444?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
 </p>
 
-**CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC)**
+**CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL Workflows, HPC**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-64748B?style=for-the-badge&logoColor=fff" alt="Graphics / XR">
