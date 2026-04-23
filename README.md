@@ -166,7 +166,9 @@
 **Git, CI/CD, CMake, pytest, Jupyter, Wireshark, Bash, PowerShell, Linux, Windows, Visual Studio, LaTeX**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Languages-Greek%20(Native)%20%E2%80%A2%20Russian%20(Native)%20%E2%80%A2%20English%20(B2%2C%20ECCE%20-%20University%20of%20Michigan)-FBBF24?style=for-the-badge&logoColor=000" alt="Languages">
+  <img height="30" src="https://img.shields.io/badge/Greek-Native-FBBF24?style=for-the-badge&logoColor=000" alt="Greek">
+  <img height="30" src="https://img.shields.io/badge/Russian-Native-FBBF24?style=for-the-badge&logoColor=000" alt="Russian">
+  <img height="30" src="https://img.shields.io/badge/English-B2%20ECCE-FBBF24?style=for-the-badge&logoColor=000" alt="English">
 </p>
 
 ---
