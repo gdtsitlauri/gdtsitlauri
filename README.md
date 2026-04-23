@@ -1,13 +1,5 @@
 # George David Tsitlauri
 
-**AI & Systems Research Engineer**
-
-gdtsitlauri.dev | gdtsitlauri@gmail.com | github.com/gdtsitlauri | linkedin.com/in/gdtsitlauri
-
-BSc in Informatics & Telecommunications, University of Thessaly, Greece (2021-2026)  
-Specialization: Data Management and Artificial Intelligence  
-Member of the Computer Architecture, Compilers and System Security research laboratory
-
 <p align="left" style="margin-bottom:0">
   <img height="30" src="https://img.shields.io/badge/BSc-Informatics%20%26%20Telecommunications-DC2626?style=for-the-badge" alt="BSc"><br>
   <img height="30" src="https://img.shields.io/badge/Specialization-Data%20Management%20%26%20AI-0F766E?style=for-the-badge" alt="Specialization"><br>
