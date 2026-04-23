@@ -143,6 +143,12 @@
 **CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC), hardware-aware inference**
 
 <p align="left">
+  <img height="30" src="https://img.shields.io/badge/Skills-Security-E11D48?style=for-the-badge&logoColor=fff" alt="Security">
+</p>
+
+**reverse engineering, static & dynamic malware analysis, binary disassembly, IOC extraction, MITRE ATT&CK, intrusion detection, adversarial ML, zero-knowledge proofs**
+
+<p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-84CC16?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
 </p>
 
