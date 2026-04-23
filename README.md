@@ -106,29 +106,24 @@
 
 ## Skills
 
-<p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Primary)-3B82F6?style=for-the-badge&logoColor=000" alt="Programming (Primary)">
-</p>
-
-**Python, C, C++, Java, SQL, JavaScript, TypeScript, Assembly**
 
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20(Secondary)-14B8A6?style=for-the-badge&logoColor=000" alt="Programming (Secondary)">
+  <img height="30" src="https://img.shields.io/badge/Skills-Programming%20Languages-3B82F6?style=for-the-badge&logoColor=000" alt="Programming Languages">
 </p>
 
-**Go, Rust, Haskell, Dart, VHDL, Verilog, C#, Scala, Julia, R, MATLAB, Octave, Kotlin, Swift, Solidity, GLSL, Fortran, PHP, Ruby, Perl, Pascal**
+**Python, C, C++, Java, SQL, JavaScript, TypeScript, Assembly, Go, Rust, Haskell, Dart, VHDL, Verilog, C#, Scala, Julia, R, MATLAB, Octave, Kotlin, Swift, Solidity, GLSL, Fortran, PHP, Ruby, Perl, Pascal**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-AI%20%2F%20Data-A855F7?style=for-the-badge&logoColor=000" alt="AI / Data">
 </p>
 
-**PyTorch, TensorFlow, scikit-learn, XGBoost, Apache Spark, Apache Hadoop, reinforcement learning, anomaly detection, explainability, retrieval systems, LLM workflows, statistical modeling, time-series analysis**
+**PyTorch, TensorFlow, XGBoost, Apache Spark, Apache Hadoop**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Systems%20%2F%20Software-22C55E?style=for-the-badge&logoColor=000" alt="Systems / Software">
 </p>
 
-**FastAPI, Flutter, Streamlit, Docker, Kubernetes, PostgreSQL, distributed systems, compiler/toolchain design, benchmarking pipelines, simulation frameworks, query optimization, indexing, database-engine internals**
+**FastAPI, Flutter, Streamlit, Docker, Kubernetes, PostgreSQL**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Cloud%20%2F%20MLOps-F97316?style=for-the-badge&logoColor=000" alt="Cloud / MLOps">
@@ -140,25 +135,25 @@
   <img height="30" src="https://img.shields.io/badge/Skills-Hardware%20%2F%20Parallel%20Computing-EF4444?style=for-the-badge&logoColor=000" alt="Hardware / Parallel Computing">
 </p>
 
-**CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC), hardware-aware inference**
+**CUDA, OpenMP, MPI, TensorRT, Xilinx Vivado, Vitis HLS, FPGA/RTL workflows, high-performance computing (HPC)**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Security-E11D48?style=for-the-badge&logoColor=fff" alt="Security">
 </p>
 
-**reverse engineering, static & dynamic malware analysis, binary disassembly, IOC extraction, MITRE ATT&CK, intrusion detection, adversarial ML, zero-knowledge proofs**
+
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Telecom%20%2F%20Networking-84CC16?style=for-the-badge&logoColor=000" alt="Telecom / Networking">
 </p>
 
-**SDR pipelines, semantic communications, digital signal processing (DSP)**
+
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Graphics%20%2F%20XR-64748B?style=for-the-badge&logoColor=fff" alt="Graphics / XR">
 </p>
 
-**Neural rendering, WebXR, Three.js**
+**Neural Rendering, WebXR, Three.js**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Skills-Web%20%2F%20Frontend-0EA5E9?style=for-the-badge&logoColor=000" alt="Web / Frontend">
@@ -170,7 +165,7 @@
   <img height="30" src="https://img.shields.io/badge/Skills-Dev%20%2F%20Research%20Tools-FCA5A5?style=for-the-badge&logoColor=000" alt="Dev / Research Tools">
 </p>
 
-**Git, CI/CD, CMake, pytest, Jupyter, Wireshark, Bash, PowerShell, Linux, Windows, Visual Studio, LaTeX**
+**Git, CI/CD, CMake, Jupyter, Wireshark, Bash, PowerShell, Linux, Windows, Visual Studio, LaTeX**
 
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Greek-Native-FBBF24?style=for-the-badge&logoColor=000" alt="Greek">
