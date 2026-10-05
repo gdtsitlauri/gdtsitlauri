@@ -18,10 +18,6 @@
 
 <br>
 
-**Currently:** MSc thesis [TELEMACHUS](https://github.com/gdtsitlauri/telemachus) · preliminary PhD research on secure hardware and verifiable AI with [Prof. G. Dimitriou](https://dit.uth.gr/?p=38875)
-
-<br>
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,tensorflow,verilog,linux,bash,git,cmake,docker,kubernetes,postgres,latex&perline=15" alt="Python, C, C++, Java, PyTorch, TensorFlow, Verilog, Linux, Bash, Git, CMake, Docker, Kubernetes, PostgreSQL, LaTeX">
 
 <br>
