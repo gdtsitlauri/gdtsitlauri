@@ -25,7 +25,6 @@
 <img height="26" src="https://img.shields.io/badge/TypeScript-475569?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img height="26" src="https://img.shields.io/badge/Assembly-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNNiA5bDMgMy0zIDNNMTIgMTVoNSIvPjwvc3ZnPg==&logoColor=white" alt="Assembly">
 <img height="26" src="https://img.shields.io/badge/VHDL-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik05IDJ2NE0xNSAydjRNOSAxOHY0TTE1IDE4djRNMiA5aDRNMiAxNWg0TTE4IDloNE0xOCAxNWg0Ii8+PC9zdmc+&logoColor=white" alt="VHDL">
-<img height="26" src="https://img.shields.io/badge/Verilog-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik05IDJ2NE0xNSAydjRNOSAxOHY0TTE1IDE4djRNMiA5aDRNMiAxNWg0TTE4IDloNE0xOCAxNWg0Ii8+PC9zdmc+&logoColor=white" alt="Verilog">
 
 <br>
 
