@@ -15,16 +15,11 @@
 
 <br>
 
-<img height="26" src="https://img.shields.io/badge/Python-475569?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img height="26" src="https://img.shields.io/badge/C-475569?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img height="26" src="https://img.shields.io/badge/C%2B%2B-475569?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img height="26" src="https://img.shields.io/badge/Java-475569?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img height="26" src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8+PHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg==&logoColor=white" alt="SQL">
-<img height="26" src="https://img.shields.io/badge/JavaScript-475569?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<br>
-<img height="26" src="https://img.shields.io/badge/TypeScript-475569?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img height="26" src="https://img.shields.io/badge/Assembly-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNNiA5bDMgMy0zIDNNMTIgMTVoNSIvPjwvc3ZnPg==&logoColor=white" alt="Assembly">
-<img height="26" src="https://img.shields.io/badge/VHDL-475569?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik05IDJ2NE0xNSAydjRNOSAxOHY0TTE1IDE4djRNMiA5aDRNMiAxNWg0TTE4IDloNE0xOCAxNWg0Ii8+PC9zdmc+&logoColor=white" alt="VHDL">
+<img height="26" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img height="26" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img height="26" src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img height="26" src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNNiA5bDMgMy0zIDNNMTIgMTVoNSIvPjwvc3ZnPg==&logoColor=white" alt="Assembly">
+<img height="26" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 <br>
 
