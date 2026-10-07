@@ -16,9 +16,9 @@
 <br>
 
 <img height="26" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-<img height="26" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img height="26" src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img height="26" src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNNiA5bDMgMy0zIDNNMTIgMTVoNSIvPjwvc3ZnPg==&logoColor=white" alt="Assembly">
+<img height="26" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=1E2A3A" alt="C">
+<img height="26" src="https://img.shields.io/badge/C%2B%2B-C2185B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img height="26" src="https://img.shields.io/badge/Assembly-2E7D32?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNNiA5bDMgMy0zIDNNMTIgMTVoNSIvPjwvc3ZnPg==&logoColor=white" alt="Assembly">
 <img height="26" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 <br>
